@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="210" tvg-name="VTV1 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV",VTV1 HD
+http://14.255.66.32:8989/rtp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="377" tvg-name="VTV2 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png" group-title="MyTV",VTV2 HD
+http://14.255.66.32:8989/rtp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="211" tvg-name="VTV3 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png" group-title="MyTV",VTV3 HD
+http://14.255.66.32:8989/rtp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="378" tvg-name="VTV4 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png" group-title="MyTV",VTV4 HD
+http://14.255.66.32:8989/rtp/232.84.3.106:10600
+#EXTINF:-1 tvg-id="379" tvg-name="VTV5 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png" group-title="MyTV",VTV5 HD
+http://14.255.66.32:8989/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="212" tvg-name="VTV Cần Thơ" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/46/68/84/40/06/6a/46840-pvtvcnth-channel-unkn.png" group-title="MyTV",VTV Cần Thơ
+http://14.255.66.32:8989/rtp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="857" tvg-name="Vietnam Today" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png" group-title="MyTV",Vietnam Today
+http://14.255.66.32:8989/rtp/232.84.1.234:10290
+#EXTINF:-1 tvg-id="115" tvg-name="BTV6 - Shopping 24h" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV",BTV6 - Shopping 24h
+http://14.255.66.32:8989/rtp/232.84.2.197:10966
+#EXTINF:-1 tvg-id="459" tvg-name="VTV7 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png" group-title="MyTV",VTV7 HD
+http://14.255.66.32:8989/rtp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="7" tvg-name="HTV1 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" group-title="MyTV",HTV1 HD
+http://14.255.66.32:8989/rtp/232.84.3.57:11710
+#EXTINF:-1 tvg-id="766" tvg-name="SCTV - Phim Tổng hợp" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV",SCTV - Phim Tổng hợp
+http://14.255.66.32:8989/rtp/232.84.3.14:11968
+#EXTINF:-1 tvg-id="769" tvg-name="SCTV1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="MyTV",SCTV1
+http://14.255.66.32:8989/rtp/232.84.3.34:11848
+#EXTINF:-1 tvg-id="9" tvg-name="HTV Key (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" group-title="MyTV",HTV Key (HD)
+http://14.255.66.32:8989/rtp/232.84.3.55:11722
+#EXTINF:-1 tvg-id="18" tvg-name="HTV Thể thao" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV",HTV Thể thao
+http://14.255.66.32:8989/rtp/232.84.3.88:11524
+#EXTINF:-1 tvg-id="772" tvg-name="SCTV2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="MyTV",SCTV2
+http://14.255.66.32:8989/rtp/232.84.3.33:11854
+#EXTINF:-1 tvg-id="775" tvg-name="SCTV3" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="MyTV",SCTV3
+http://14.255.66.32:8989/rtp/232.84.3.32:11860
+#EXTINF:-1 tvg-id="778" tvg-name="SCTV4" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="MyTV",SCTV4
+http://14.255.66.32:8989/rtp/232.84.3.31:11866
+#EXTINF:-1 tvg-id="781" tvg-name="SCTV6" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="MyTV",SCTV6
+http://14.255.66.32:8989/rtp/232.84.3.30:11872
+#EXTINF:-1 tvg-id="784" tvg-name="SCTV7" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV",SCTV7
+http://14.255.66.32:8989/rtp/232.84.3.29:11878
+#EXTINF:-1 tvg-id="421" tvg-name="Vĩnh Long 1 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV",Vĩnh Long 1 HD
+http://14.255.66.32:8989/rtp/232.84.3.152:10882
+#EXTINF:-1 tvg-id="787" tvg-name="SCTV8" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" group-title="MyTV",SCTV8
+http://14.255.66.32:8989/rtp/232.84.3.28:11884
+#EXTINF:-1 tvg-id="790" tvg-name="SCTV9" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png" group-title="MyTV",SCTV9
+http://14.255.66.32:8989/rtp/232.84.3.27:11890
+#EXTINF:-1 tvg-id="423" tvg-name="Vĩnh Long 2 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV",Vĩnh Long 2 HD
+http://14.255.66.32:8989/rtp/232.84.3.164:10888
+#EXTINF:-1 tvg-id="425" tvg-name="Vĩnh Long 3 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV",Vĩnh Long 3 HD
+http://14.255.66.32:8989/rtp/232.84.3.165:10900
+#EXTINF:-1 tvg-id="793" tvg-name="SCTV11" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" group-title="MyTV",SCTV11
+http://14.255.66.32:8989/rtp/232.84.3.26:11896
+#EXTINF:-1 tvg-id="796" tvg-name="SCTV12" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png" group-title="MyTV",SCTV12
+http://14.255.66.32:8989/rtp/232.84.3.25:11902
+#EXTINF:-1 tvg-id="35" tvg-name="ANTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV",ANTV
+http://14.255.66.32:8989/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="200" tvg-name="ON Sports (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="MyTV",ON Sports (HD)
+http://14.255.66.32:8989/rtp/232.84.1.207:9216
+#EXTINF:-1 tvg-id="208" tvg-name="ON Football (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV",ON Football (HD)
+http://14.255.66.32:8989/rtp/232.84.1.210:9234
+#EXTINF:-1 tvg-id="799" tvg-name="SCTV13" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png" group-title="MyTV",SCTV13
+http://14.255.66.32:8989/rtp/232.84.3.24:11908
+#EXTINF:-1 tvg-id="802" tvg-name="SCTV14" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png" group-title="MyTV",SCTV14
+http://14.255.66.32:8989/rtp/232.84.3.23:11914
+#EXTINF:-1 tvg-id="632" tvg-name="SPOTV (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png" group-title="MyTV",SPOTV (HD)
+http://14.255.66.32:8989/rtp/232.84.3.111:10666
+#EXTINF:-1 tvg-id="633" tvg-name="SPOTV2 (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png" group-title="MyTV",SPOTV2 (HD)
+http://14.255.66.32:8989/rtp/232.84.3.129:10672
+#EXTINF:-1 tvg-id="805" tvg-name="SCTV16" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png" group-title="MyTV",SCTV16
+http://14.255.66.32:8989/rtp/232.84.3.21:11926
+#EXTINF:-1 tvg-id="808" tvg-name="SCTV18" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" group-title="MyTV",SCTV18
+http://14.255.66.32:8989/rtp/232.84.3.19:11938
+#EXTINF:-1 tvg-id="811" tvg-name="SCTV19" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" group-title="MyTV",SCTV19
+http://14.255.66.32:8989/rtp/232.84.3.18:11944
+#EXTINF:-1 tvg-id="814" tvg-name="SCTV20" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" group-title="MyTV",SCTV20
+http://14.255.66.32:8989/rtp/232.84.3.17:11950
+#EXTINF:-1 tvg-id="817" tvg-name="SCTV21" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" group-title="MyTV",SCTV21
+http://14.255.66.32:8989/rtp/232.84.3.16:11956
+#EXTINF:-1 tvg-id="185" tvg-name="NHK World Japan HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6a/a4/46/6f/f0/0f/6a46f-pnhkworldjapanhd-channel-unkn.png" group-title="MyTV",NHK World Japan HD
+http://14.255.66.32:8989/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="105" tvg-name="Box Hits (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/6b/b5/56/68/84/e6b56-pboxhitshd-channel-unkn.png" group-title="MyTV",Box Hits (HD)
+http://14.255.66.32:8989/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="823" tvg-name="SCTV15 - SSportT2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="MyTV",SCTV15 - SSportT2
+http://14.255.66.32:8989/rtp/232.84.3.22:11920
+#EXTINF:-1 tvg-id="826" tvg-name="SCTV17 - Ssport" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="MyTV",SCTV17 - Ssport
+http://14.255.66.32:8989/rtp/232.84.3.20:11932
+#EXTINF:-1 tvg-id="829" tvg-name="SCTV 22 - SSportT1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV",SCTV 22 - SSportT1
+http://14.255.66.32:8989/rtp/232.84.3.15:11962
+#EXTINF:-1 tvg-id="429" tvg-name="Vĩnh Long 4 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f6/6b/b2/29/99/9c/f6b29-pvnhlong4hd-channel-unkn.png" group-title="MyTV",Vĩnh Long 4 HD
+http://14.255.66.32:8989/rtp/232.84.3.160:10912
+#EXTINF:-1 tvg-id="69" tvg-name="Music Box (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ab/bd/d3/3e/e6/64/abd3e-pmusicboxhd-channel-unkn.png" group-title="MyTV",Music Box (HD)
+http://14.255.66.32:8989/rtp/232.84.1.13:8052
+#EXTINF:-1 tvg-id="553" tvg-name="DreamWorks (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png" group-title="MyTV",DreamWorks (HD)
+http://14.255.66.32:8989/rtp/232.84.3.227:11284
+#EXTINF:-1 tvg-id="14" tvg-name="HTVC Gia Đình (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ba/a1/1c/c4/4a/a9/ba1c4-phtvcgianhhd-channel-unkn.png" group-title="MyTV",HTVC Gia Đình (HD)
+http://14.255.66.32:8989/rtp/232.84.3.52:11740
+#EXTINF:-1 tvg-id="83" tvg-name="TV5 MONDE" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/79/92/2a/a7/76/64/792a7-ptv5monde-channel-unkn.png" group-title="MyTV",TV5 MONDE
+http://14.255.66.32:8989/rtp/232.84.1.45:8250
+#EXTINF:-1 tvg-id="380" tvg-name="VTV8 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/0f/f4/4d/d7/75/51/0f4d7-pvtv8hd-channel-unkn.png" group-title="MyTV",VTV8 HD
+http://14.255.66.32:8989/rtp/232.84.3.104:10612
+#EXTINF:-1 tvg-id="381" tvg-name="VTV9 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png" group-title="MyTV",VTV9 HD
+http://14.255.66.32:8989/rtp/232.84.2.35:10618
+#EXTINF:-1 tvg-id="300" tvg-name="HTV Thuần Việt HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8b/b4/4f/fa/aa/a0/8b4fa-phtvthunvithd-channel-unkn.png" group-title="MyTV",HTV Thuần Việt HD
+http://14.255.66.32:8989/rtp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="302" tvg-name="HTVC Phim HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/0f/f5/59/92/2f/f6/0f592-phtvcphimhd-channel-unkn.png" group-title="MyTV",HTVC Phim HD
+http://14.255.66.32:8989/rtp/232.84.3.118:9594
+#EXTINF:-1 tvg-id="110" tvg-name="HTV3 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" group-title="MyTV",HTV3 HD
+http://14.255.66.32:8989/rtp/232.84.3.56:11716
+#EXTINF:-1 tvg-id="27" tvg-name="ON O2TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/85/52/20/05/5f/fc/85205-pono2tvhd-channel-unkn.png" group-title="MyTV",ON O2TV HD
+http://14.255.66.32:8989/rtp/232.84.3.74:11608
+#EXTINF:-1 tvg-id="127" tvg-name="HTV2 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="MyTV",HTV2 HD
+http://14.255.66.32:8989/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="128" tvg-name="HTV7 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png" group-title="MyTV",HTV7 HD
+http://14.255.66.32:8989/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="190" tvg-name="HTV9 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png" group-title="MyTV",HTV9 HD
+http://14.255.66.32:8989/rtp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="197" tvg-name="ON Vie Giải trí" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/0c/c1/12/24/4c/cd/0c124-ponviegiitr-channel-unkn.png" group-title="MyTV",ON Vie Giải trí
+http://14.255.66.32:8989/rtp/232.84.3.78:11584
+#EXTINF:-1 tvg-id="198" tvg-name="ON Phim Việt HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3d/d2/24/49/9e/ed/3d249-ponphimvithd-channel-unkn.png" group-title="MyTV",ON Phim Việt HD
+http://14.255.66.32:8989/rtp/232.84.3.77:11590
+#EXTINF:-1 tvg-id="201" tvg-name="ON Vie Dramas" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png" group-title="MyTV",ON Vie Dramas
+http://14.255.66.32:8989/rtp/232.84.3.218:11230
+#EXTINF:-1 tvg-id="202" tvg-name="ON E Channel" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/7a/a9/95/5d/d5/5a/7a95d-ponechannel-channel-unkn.png" group-title="MyTV",ON E Channel
+http://14.255.66.32:8989/rtp/232.84.3.76:11596
+#EXTINF:-1 tvg-id="203" tvg-name="On Sports+ HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png" group-title="MyTV",On Sports+ HD
+http://14.255.66.32:8989/rtp/232.84.3.75:11602
+#EXTINF:-1 tvg-id="205" tvg-name="ON Bibi HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b4/43/30/0a/ac/cb/b430a-ponbibihd-channel-unkn.png" group-title="MyTV",ON Bibi HD
+http://14.255.66.32:8989/rtp/232.84.3.217:11224
+#EXTINF:-1 tvg-id="206" tvg-name="ON Style TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6d/df/f4/4e/ee/e9/6df4e-ponstyletvhd-channel-unkn.png" group-title="MyTV",ON Style TV HD
+http://14.255.66.32:8989/rtp/232.84.3.71:11626
+#EXTINF:-1 tvg-id="209" tvg-name="ON Trending HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/05/5e/eb/b9/95/55/05eb9-pontrendinghd-channel-unkn.png" group-title="MyTV",ON Trending HD
+http://14.255.66.32:8989/rtp/232.84.3.69:11638
+#EXTINF:-1 tvg-id="204" tvg-name="ON Cine HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png" group-title="MyTV",ON Cine HD
+http://14.255.66.32:8989/rtp/232.84.3.72:11620
+#EXTINF:-1 tvg-id="615" tvg-name="VTV5 Tây Nam Bộ (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png" group-title="MyTV",VTV5 Tây Nam Bộ (HD)
+http://14.255.66.32:8989/rtp/232.84.3.86:11542
+#EXTINF:-1 tvg-id="12" tvg-name="HTVC Ca Nhạc (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b8/8b/bd/da/ae/eb/b8bda-phtvccanhchd-channel-unkn.png" group-title="MyTV",HTVC Ca Nhạc (HD)
+http://14.255.66.32:8989/rtp/232.84.3.54:11728
+#EXTINF:-1 tvg-id="191" tvg-name="Outdoor HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/58/84/45/5f/f8/8c/5845f-poutdoorhd-channel-unkn.png" group-title="MyTV",Outdoor HD
+http://14.255.66.32:8989/rtp/232.84.1.107:10218
+#EXTINF:-1 tvg-id="642" tvg-name="VTV5 Tây Nguyên (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" group-title="MyTV",VTV5 Tây Nguyên (HD)
+http://14.255.66.32:8989/rtp/232.84.3.66:11656
+#EXTINF:-1 tvg-id="141" tvg-name="Cao Bằng TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a0/0d/d4/4e/e8/8d/a0d4e-pcaobngtv-channel-unkn.png" group-title="MyTV",Cao Bằng TV
+http://14.255.66.32:8989/rtp/232.84.3.202:11134
+#EXTINF:-1 tvg-id="193" tvg-name="Lạng Sơn TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/0a/ab/b3/38/88/8d/0ab38-plngsntvhd-channel-unkn.png" group-title="MyTV",Lạng Sơn TV HD
+http://14.255.66.32:8989/rtp/232.84.3.203:11140
+#EXTINF:-1 tvg-id="227" tvg-name="QPVN (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" group-title="MyTV",QPVN (HD)
+http://14.255.66.32:8989/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="241" tvg-name="ON Vfamily HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/27/7a/a7/71/1f/f0/27a71-ponvfamilyhd-channel-unkn.png" group-title="MyTV",ON Vfamily HD
+http://14.255.66.32:8989/rtp/232.84.3.68:11644
+#EXTINF:-1 tvg-id="313" tvg-name="DW-HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/38/85/5a/aa/a1/1b/385aa-pdwhd-channel-unkn.png" group-title="MyTV",DW-HD
+http://14.255.66.32:8989/rtp/232.84.3.154:10416
+#EXTINF:-1 tvg-id="308" tvg-name="France24" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b2/26/6b/bc/c6/6d/b26bc-pfrance24-channel-unkn.png" group-title="MyTV",France24
+http://14.255.66.32:8989/rtp/232.84.3.145:9606
+#EXTINF:-1 tvg-id="306" tvg-name="KBS World" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/82/2f/fb/b6/6d/d7/82fb6-pkbsworld-channel-unkn.png" group-title="MyTV",KBS World
+http://14.255.66.32:8989/rtp/232.84.2.136:9612
+#EXTINF:-1 tvg-id="13" tvg-name="HTVC Du Lịch Cuộc Sống (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/8d/d4/4a/a5/5f/fb/8d4a5-phtvcdulchcucsnghd-channel-unkn.png" group-title="MyTV",HTVC Du Lịch Cuộc Sống (HD)
+http://14.255.66.32:8989/rtp/232.84.3.53:11734
+#EXTINF:-1 tvg-id="366" tvg-name="Channel News Asia HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/69/91/15/50/06/60/69150-pchannelnewsasiahd-channel-unkn.png" group-title="MyTV",Channel News Asia HD
+http://14.255.66.32:8989/rtp/232.84.3.155:10540
+#EXTINF:-1 tvg-id="294" tvg-name="DaVinci HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b0/0b/b6/6e/e8/86/b0b6e-pdavincihd-channel-unkn.png" group-title="MyTV",DaVinci HD
+http://14.255.66.32:8989/rtp/232.84.2.131:9582
+#EXTINF:-1 tvg-id="616" tvg-name="THP3" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c1/1b/b5/5b/b1/17/c1b5b-pthp3-channel-unkn.png" group-title="MyTV",THP3
+http://14.255.66.32:8989/rtp/232.84.3.83:11554
+#EXTINF:-1 tvg-id="298" tvg-name="Asian Food Network (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/33/33/32/20/08/8d/33320-pasianfoodnetworkhd-channel-unkn.png" group-title="MyTV",Asian Food Network (HD)
+http://14.255.66.32:8989/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-id="523" tvg-name="CINEMAWORLD HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png" group-title="MyTV",CINEMAWORLD HD
+http://14.255.66.32:8989/rtp/232.84.3.50:11752
+#EXTINF:-1 tvg-id="407" tvg-name="Hải Phòng TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a9/9c/c3/35/56/6c/a9c35-phiphngtvhd-channel-unkn.png" group-title="MyTV",Hải Phòng TV HD
+http://14.255.66.32:8989/rtp/232.84.3.142:10780
+#EXTINF:-1 tvg-id="358" tvg-name="CNBC" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/58/81/1a/a0/03/36/581a0-pcnbc-channel-unkn.png" group-title="MyTV",CNBC
+http://14.255.66.32:8989/rtp/232.84.3.179:10488
+#EXTINF:-1 tvg-id="384" tvg-name="HTVC Plus HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f0/0a/a3/31/1f/f3/f0a31-phtvcplushd-channel-unkn.png" group-title="MyTV",HTVC Plus HD
+http://14.255.66.32:8989/rtp/232.84.3.245:11392
+#EXTINF:-1 tvg-id="63" tvg-name="Arirang" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/48/8c/cf/f9/9e/e6/48cf9-parirang-channel-unkn.png" group-title="MyTV",Arirang
+http://14.255.66.32:8989/rtp/232.84.1.43:8238
+#EXTINF:-1 tvg-id="400" tvg-name="Hà Nội 1  HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/4a/ab/b7/75/55/55/4ab75-phni1hd-channel-unkn.png" group-title="MyTV",Hà Nội 1  HD
+http://14.255.66.32:8989/rtp/232.84.3.143:10738
+#EXTINF:-1 tvg-id="410" tvg-name="Phú Thọ TV (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3d/d4/46/6a/a3/32/3d46a-pphthtvhd-channel-unkn.png" group-title="MyTV",Phú Thọ TV (HD)
+http://14.255.66.32:8989/rtp/232.84.3.148:10792
+#EXTINF:-1 tvg-id="401" tvg-name="Hà Nội 2 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f0/0f/f2/28/88/83/f0f28-phni2hd-channel-unkn.png" group-title="MyTV",Hà Nội 2 HD
+http://14.255.66.32:8989/rtp/232.84.3.137:10744
+#EXTINF:-1 tvg-id="435" tvg-name="ON MOVIES (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e5/5e/ed/df/f8/8e/e5edf-ponmovieshd-channel-unkn.png" group-title="MyTV",ON MOVIES (HD)
+http://14.255.66.32:8989/rtp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="437" tvg-name="ON InfoTV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/2a/a6/69/95/5a/a2/2a695-poninfotvhd-channel-unkn.png" group-title="MyTV",ON InfoTV HD
+http://14.255.66.32:8989/rtp/232.84.3.73:11614
+#EXTINF:-1 tvg-id="439" tvg-name="ON MUSIC HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/2d/df/fc/c3/35/5d/2dfc3-ponmusichd-channel-unkn.png" group-title="MyTV",ON MUSIC HD
+http://14.255.66.32:8989/rtp/232.84.3.70:11632
+#EXTINF:-1 tvg-id="441" tvg-name="ON Sports News" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png" group-title="MyTV",ON Sports News
+http://14.255.66.32:8989/rtp/232.84.2.193:10942
+#EXTINF:-1 tvg-id="415" tvg-name="ON Golf" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png" group-title="MyTV",ON Golf
+http://14.255.66.32:8989/rtp/232.84.2.246:10876
+#EXTINF:-1 tvg-id="406" tvg-name="Thái Nguyên" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d5/54/40/00/00/03/d5400-pthinguyn-channel-unkn.png" group-title="MyTV",Thái Nguyên
+http://14.255.66.32:8989/rtp/232.84.3.146:10774
+#EXTINF:-1 tvg-id="16" tvg-name="HTV Phụ Nữ (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/de/ea/ad/d8/86/64/dead8-phtvphnhd-channel-unkn.png" group-title="MyTV",HTV Phụ Nữ (HD)
+http://14.255.66.32:8989/rtp/232.84.3.51:11746
+#EXTINF:-1 tvg-id="154" tvg-name="Tuyên Quang TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b6/61/1c/cf/fe/e0/b61cf-ptuynquangtv-channel-unkn.png" group-title="MyTV",Tuyên Quang TV
+http://14.255.66.32:8989/rtp/232.84.2.91:9138
+#EXTINF:-1 tvg-id="589" tvg-name="Animal Plannet HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c7/7d/df/fb/bc/c3/c7dfb-panimalplannethd-channel-unkn.png" group-title="MyTV",Animal Plannet HD
+vstv467
+#EXTINF:-1 tvg-id="590" tvg-name="AXN HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/68/8a/a7/70/06/6f/68a70-paxnhd-channel-unkn.png" group-title="MyTV",AXN HD
+vstv463
+#EXTINF:-1 tvg-id="592" tvg-name="CartoonNetwork HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png" group-title="MyTV",CartoonNetwork HD
+vstv465
+#EXTINF:-1 tvg-id="593" tvg-name="CNN HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/93/3c/c3/3a/ab/be/93c3a-pcnnhd-channel-unkn.png" group-title="MyTV",CNN HD
+vstv466
+#EXTINF:-1 tvg-id="594" tvg-name="Discovery(HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3c/cb/b3/37/74/49/3cb37-pdiscoveryhd-channel-unkn.png" group-title="MyTV",Discovery(HD)
+vstv446
+#EXTINF:-1 tvg-id="742" tvg-name="ON Kids (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/57/7e/e3/3d/d3/3b/57e3d-ponkidshd-channel-unkn.png" group-title="MyTV",ON Kids (HD)
+http://14.255.66.32:8989/rtp/232.84.3.41:11806
+#EXTINF:-1 tvg-id="745" tvg-name="ON Life (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/63/38/88/8e/e2/23/6388e-ponlifehd-channel-unkn.png" group-title="MyTV",ON Life (HD)
+http://14.255.66.32:8989/rtp/232.84.3.40:11812
+#EXTINF:-1 tvg-id="595" tvg-name="FTV(HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/02/29/9b/bd/da/aa/029bd-pftvhd-channel-unkn.png" group-title="MyTV",FTV(HD)
+vstv445
+#EXTINF:-1 tvg-id="598" tvg-name="ABC Australia" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/08/81/10/02/23/3b/08102-pabcaustralia-channel-unkn.png" group-title="MyTV",ABC Australia
+ABC Autrailia (OTT)
+#EXTINF:-1 tvg-id="596" tvg-name="TLC HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ce/e5/50/09/97/74/ce509-ptlchd-channel-unkn.png" group-title="MyTV",TLC HD
+vstv469
+#EXTINF:-1 tvg-id="597" tvg-name="Warner HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3e/e1/1d/df/f7/7c/3e1df-pwarnerhd-channel-unkn.png" group-title="MyTV",Warner HD
+vstv447
+#EXTINF:-1 tvg-id="116" tvg-name="Lào Cai TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/64/49/95/59/99/e6495-plocaitv-channel-unkn.png" group-title="MyTV",Lào Cai TV
+http://14.255.66.32:8989/rtp/232.84.2.93:8718
+#EXTINF:-1 tvg-id="455" tvg-name="Quảng Ninh1 (QTV1) HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b5/51/11/10/0d/d1/b5110-pqungninh1qtv1hd-channel-unkn.png" group-title="MyTV",Quảng Ninh1 (QTV1) HD
+http://14.255.66.32:8989/rtp/232.84.1.248:10978
+#EXTINF:-1 tvg-id="457" tvg-name="Quảng Ninh3 (QTV3) HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c5/56/63/32/2a/a0/c5632-pqungninh3qtv3hd-channel-unkn.png" group-title="MyTV",Quảng Ninh3 (QTV3) HD
+http://14.255.66.32:8989/rtp/232.84.1.249:10984
+#EXTINF:-1 tvg-id="156" tvg-name="Lai Châu TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/17/75/5b/b5/54/4f/175b5-plaichutv-channel-unkn.png" group-title="MyTV",Lai Châu TV
+http://14.255.66.32:8989/rtp/232.84.3.133:9174
+#EXTINF:-1 tvg-id="739" tvg-name="DMAX (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/be/ed/de/e9/92/2a/bede9-pdmaxhd-channel-unkn.png" group-title="MyTV",DMAX (HD)
+http://14.255.66.32:8989/rtp/ 232.84.1.1:7980
+#EXTINF:-1 tvg-id="157" tvg-name="Sơn La TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/bb/b7/75/54/4d/df/bb754-psnlatv-channel-unkn.png" group-title="MyTV",Sơn La TV
+http://14.255.66.32:8989/rtp/232.84.1.184:9078
+#EXTINF:-1 tvg-id="158" tvg-name="Điện Biên TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/18/8b/bd/d3/30/0a/18bd3-pinbintv-channel-unkn.png" group-title="MyTV",Điện Biên TV
+http://14.255.66.32:8989/rtp/232.84.3.116:8880
+#EXTINF:-1 tvg-id="160" tvg-name="Ninh Bình TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e9/97/7f/fb/be/e9/e97fb-pninhbnhtv-channel-unkn.png" group-title="MyTV",Ninh Bình TV
+http://14.255.66.32:8989/rtp/232.84.3.89:11518
+#EXTINF:-1 tvg-id="477" tvg-name="Thanh Hóa TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/54/4c/c8/80/06/6f/54c80-pthanhhatvhd-channel-unkn.png" group-title="MyTV",Thanh Hóa TV HD
+http://14.255.66.32:8989/rtp/232.84.3.198:11110
+#EXTINF:-1 tvg-id="453" tvg-name="Nghệ An (HD)" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c0/04/40/0b/ba/ad/c040b-pnghanhd-channel-unkn.png" group-title="MyTV",Nghệ An (HD)
+http://14.255.66.32:8989/rtp/232.84.2.198:10972
+#EXTINF:-1 tvg-id="405" tvg-name="Hà Tĩnh TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/cf/f0/0c/c8/8e/ed/cf0c8-phtnhtvhd-channel-unkn.png" group-title="MyTV",Hà Tĩnh TV HD
+http://14.255.66.32:8989/rtp/232.84.3.134:10768
+#EXTINF:-1 tvg-id="90" tvg-name="Đà Nẵng 1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/41/13/34/4b/ba/aa/4134b-pnng1-channel-unkn.png" group-title="MyTV",Đà Nẵng 1
+http://14.255.66.32:8989/rtp/232.84.1.146:8850
+#EXTINF:-1 tvg-id="60" tvg-name="Đà Nẵng 2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/2a/ac/cd/df/f2/2a/2acdf-pnng2-channel-unkn.png" group-title="MyTV",Đà Nẵng 2
+http://14.255.66.32:8989/rtp/232.84.3.122:8856
+#EXTINF:-1 tvg-id="162" tvg-name="DakLak TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/58/87/7e/e1/12/2a/587e1-pdaklaktv-channel-unkn.png" group-title="MyTV",DakLak TV
+http://14.255.66.32:8989/rtp/232.84.3.99:11464
+#EXTINF:-1 tvg-id="163" tvg-name="Lâm Đồng TV3" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/bd/d0/0a/a6/6b/b4/bd0a6-plmngtv3-channel-unkn.png" group-title="MyTV",Lâm Đồng TV3
+http://14.255.66.32:8989/rtp/232.84.3.98:11458
+#EXTINF:-1 tvg-id="164" tvg-name="Lâm Đồng TV1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/d1/16/6c/c0/0b/bd/d16c0-plmngtv1-channel-unkn.png" group-title="MyTV",Lâm Đồng TV1
+http://14.255.66.32:8989/rtp/232.84.3.58:11704
+#EXTINF:-1 tvg-id="95" tvg-name="Đồng Nai 2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a7/7f/f9/97/7e/e7/a7f97-pngnai2-channel-unkn.png" group-title="MyTV",Đồng Nai 2
+http://14.255.66.32:8989/rtp/232.84.1.153:8892
+#EXTINF:-1 tvg-id="404" tvg-name="Đồng Nai 1 HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/fc/c0/0c/c8/8a/ae/fc0c8-pngnai1hd-channel-unkn.png" group-title="MyTV",Đồng Nai 1 HD
+http://14.255.66.32:8989/rtp/232.84.3.112:10762
+#EXTINF:-1 tvg-id="479" tvg-name="BTV9 - An Viên TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/28/82/24/44/4e/e7/28244-pbtv9anvintv-channel-unkn.png" group-title="MyTV",BTV9 - An Viên TV
+http://14.255.66.32:8989/rtp/232.84.3.199:11116
+#EXTINF:-1 tvg-id="47" tvg-name="Tây Ninh TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ff/f2/20/02/21/16/ff202-ptyninh1-channel-unkn.png" group-title="MyTV",Tây Ninh TV
+http://14.255.66.32:8989/rtp/232.84.2.3:10314
+#EXTINF:-1 tvg-id="54" tvg-name="Đồng Tháp TV2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/89/9e/ef/f7/7a/ad/89ef7-pngthptv2-channel-unkn.png" group-title="MyTV",Đồng Tháp TV2
+http://14.255.66.32:8989/rtp/232.84.3.204:11146
+#EXTINF:-1 tvg-id="39" tvg-name="Cần Thơ TV1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/88/87/79/93/30/09/88793-pcnthtv1-channel-unkn.png" group-title="MyTV",Cần Thơ TV1
+http://14.255.66.32:8989/rtp/232.84.2.118:8838
+#EXTINF:-1 tvg-id="96" tvg-name="Đồng Tháp TV1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV",Đồng Tháp TV1
+http://14.255.66.32:8989/rtp/232.84.3.235:11332
+#EXTINF:-1 tvg-id="34" tvg-name="An Giang 2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/21/19/97/73/3e/e0/21973-pangiang2-channel-unkn.png" group-title="MyTV",An Giang 2
+http://14.255.66.32:8989/rtp/232.84.3.81:11566
+#EXTINF:-1 tvg-id="433" tvg-name="An Giang 1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/7d/d7/74/42/2c/c4/7d742-pangiang1-channel-unkn.png" group-title="MyTV",An Giang 1
+http://14.255.66.32:8989/rtp/232.84.3.161:10918
+#EXTINF:-1 tvg-id="123" tvg-name="Cà Mau" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/bf/f6/69/9e/e0/0b/bf69e-pcmau-channel-unkn.png" group-title="MyTV",Cà Mau
+http://14.255.66.32:8989/rtp/232.84.2.117:8826
+#EXTINF:-1 tvg-id="121" tvg-name="Quảng Trị HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/1d/d1/11/12/20/0b/1d112-pqungtrhd-channel-unkn.png" group-title="MyTV",Quảng Trị HD
+http://14.255.66.32:8989/rtp/232.84.3.46:11776
+#EXTINF:-1 tvg-id="168" tvg-name="Huế TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/cf/f6/63/3e/e7/70/cf63e-phutv-channel-unkn.png" group-title="MyTV",Huế TV
+http://14.255.66.32:8989/rtp/232.84.2.106:9120
+#EXTINF:-1 tvg-id="409" tvg-name="QuangNgaiTV1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a9/9b/b0/09/98/8f/a9b09-pquangngaitv1-channel-unkn.png" group-title="MyTV",QuangNgaiTV1
+http://14.255.66.32:8989/rtp/232.84.3.126:10798
+#EXTINF:-1 tvg-id="114" tvg-name="Khánh Hòa" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png" group-title="MyTV",Khánh Hòa
+http://14.255.66.32:8989/rtp/232.84.2.99:8958
+#EXTINF:-1 tvg-id="267" tvg-name="801" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/91/1e/e6/66/6f/ff/91e66-p801-channel-unkn.png" group-title="MyTV",801
+http://14.255.66.32:8989/rtp/232.84.2.175:10858
+#EXTINF:-1 tvg-id="349" tvg-name="802" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png" group-title="MyTV",802
+http://14.255.66.32:8989/rtp/232.84.2.176:10864
+#EXTINF:-1 tvg-id="447" tvg-name="803" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f0/02/2e/e3/3d/dc/f02e3-p803-channel-unkn.png" group-title="MyTV",803
+http://14.255.66.32:8989/rtp/232.84.2.195:10954
+#EXTINF:-1 tvg-id="449" tvg-name="804" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png" group-title="MyTV",804
+http://14.255.66.32:8989/rtp/232.84.2.196:10960
+#EXTINF:-1 tvg-id="670" tvg-name="806" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/56/69/95/50/01/17/56950-p806-channel-unkn.png" group-title="MyTV",806
+http://14.255.66.32:8989/rtp/232.84.2.196:10960
+#EXTINF:-1 tvg-id="736" tvg-name="807" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/736.png?ver=1" group-title="MyTV",807
+http://14.255.66.32:8989/rtp/232.84.1.142:10386
+#EXTINF:-1 tvg-id="172" tvg-name="Gia Lai TV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/73/3d/da/a2/26/6e/73da2-pgialaitv-channel-unkn.png" group-title="MyTV",Gia Lai TV
+http://14.255.66.32:8989/rtp/232.84.3.138:8904
+#EXTINF:-1 tvg-id="173" tvg-name="QuangNgaiTV2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f9/9b/b7/7e/e1/13/f9b7e-pquangngaitv2-channel-unkn.png" group-title="MyTV",QuangNgaiTV2
+http://14.255.66.32:8989/rtp/232.84.3.80:11572
+#EXTINF:-1 tvg-id="52" tvg-name="Cần Thơ TV3" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/1f/f2/2a/af/f0/02/1f2af-pcnthtv3-channel-unkn.png" group-title="MyTV",Cần Thơ TV3
+http://14.255.66.32:8989/rtp/232.84.3.97:11470
+#EXTINF:-1 tvg-id="175" tvg-name="Vĩnh Long 5" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ed/dd/d9/94/47/74/edd94-pvnhlong5-channel-unkn.png" group-title="MyTV",Vĩnh Long 5
+http://14.255.66.32:8989/rtp/232.84.2.102:9114
+#EXTINF:-1 tvg-id="176" tvg-name="Khánh Hòa 1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/a0/0b/bf/fd/d6/6e/a0bfd-pkhnhha1-channel-unkn.png" group-title="MyTV",Khánh Hòa 1
+http://14.255.66.32:8989/rtp/232.84.2.74:9024
+#EXTINF:-1 tvg-id="125" tvg-name="Lâm Đồng TV2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/88/85/59/96/63/3d/88596-plmngtv2-channel-unkn.png" group-title="MyTV",Lâm Đồng TV2
+http://14.255.66.32:8989/rtp/232.84.3.87:11530
+#EXTINF:-1 tvg-id="408" tvg-name="Hưng Yên TV HD" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/11/14/40/0e/e5/54/1140e-phngyntvhd-channel-unkn.png" group-title="MyTV",Hưng Yên TV HD
+http://14.255.66.32:8989/rtp/232.84.3.110:10786
+#EXTINF:-1 tvg-id="754" tvg-name="903" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/2b/b8/81/15/59/95/2b815-p903-channel-unkn.png" group-title="MyTV",903
+vstv707
+#EXTINF:-1 tvg-id="757" tvg-name="904" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/7b/ba/ac/c7/7c/c1/7bac7-p904-channel-unkn.png" group-title="MyTV",904
+vstv708
+#EXTINF:-1 tvg-id="760" tvg-name="905" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/760.png?ver=1" group-title="MyTV",905
+vstv709
+#EXTINF:-1 tvg-id="763" tvg-name="906" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/763.png?ver=1" group-title="MyTV",906
+vstv710
+#EXTINF:-1 tvg-id="181" tvg-name="Cần Thơ TV2" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/12/23/3e/e2/20/05/123e2-pcnthtv2-channel-unkn.png" group-title="MyTV",Cần Thơ TV2
+http://14.255.66.32:8989/rtp/232.84.2.112:8940
+#EXTINF:-1 tvg-id="183" tvg-name="Bắc Ninh" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/22/2e/e6/6e/ea/ad/22e6e-pbcninh-channel-unkn.png" group-title="MyTV",Bắc Ninh
+http://14.255.66.32:8989/rtp/232.84.3.100:11452
