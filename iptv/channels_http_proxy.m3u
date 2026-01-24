@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vstv261" tvg-name="VTV1 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
+http://hado.duckdns.org:4022/udp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="vstv451" tvg-name="VTV2 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2 HD
+http://hado.duckdns.org:4022/udp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="vstv262" tvg-name="VTV3 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3 HD
+http://hado.duckdns.org:4022/udp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="vstv452" tvg-name="VTV4 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png",VTV4 HD
+http://hado.duckdns.org:4022/udp/232.84.3.106:10600
+#EXTINF:-1 tvg-id="vstv453" tvg-name="VTV5 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png",VTV5 HD
+http://hado.duckdns.org:4022/udp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="vstv263" tvg-name="VTV Cần Thơ" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/46/68/84/40/06/6a/46840-pvtvcnth-channel-unkn.png",VTV Cần Thơ
+http://hado.duckdns.org:4022/udp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="vstv651" tvg-name="Vietnam Today" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png",Vietnam Today
+http://hado.duckdns.org:4022/udp/232.84.1.234:10290
+#EXTINF:-1 tvg-id="vstv514" tvg-name="BTV6 - Shopping 24h" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png",BTV6 - Shopping 24h
+http://hado.duckdns.org:4022/udp/232.84.2.197:10966
+#EXTINF:-1 tvg-id="vstv516" tvg-name="VTV7 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7 HD
+http://hado.duckdns.org:4022/udp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="vstv074" tvg-name="HTV1 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1 HD
+http://hado.duckdns.org:4022/udp/232.84.3.57:11710
+#EXTINF:-1 tvg-id="vstv623" tvg-name="SCTV - Phim Tổng hợp" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png",SCTV - Phim Tổng hợp
+http://hado.duckdns.org:4022/udp/232.84.3.14:11968
+#EXTINF:-1 tvg-id="vstv603" tvg-name="SCTV1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png",SCTV1
+http://hado.duckdns.org:4022/udp/232.84.3.34:11848
+#EXTINF:-1 tvg-id="vstv089" tvg-name="HTV Key (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV Key (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.55:11722
+#EXTINF:-1 tvg-id="vstv047" tvg-name="HTV Thể thao" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể thao
+http://hado.duckdns.org:4022/udp/232.84.3.88:11524
+#EXTINF:-1 tvg-id="vstv604" tvg-name="SCTV2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png",SCTV2
+http://hado.duckdns.org:4022/udp/232.84.3.33:11854
+#EXTINF:-1 tvg-id="vstv605" tvg-name="SCTV3" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png",SCTV3
+http://hado.duckdns.org:4022/udp/232.84.3.32:11860
+#EXTINF:-1 tvg-id="vstv606" tvg-name="SCTV4" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png",SCTV4
+http://hado.duckdns.org:4022/udp/232.84.3.31:11866
+#EXTINF:-1 tvg-id="vstv607" tvg-name="SCTV6" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png",SCTV6
+http://hado.duckdns.org:4022/udp/232.84.3.30:11872
+#EXTINF:-1 tvg-id="vstv608" tvg-name="SCTV7" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png",SCTV7
+http://hado.duckdns.org:4022/udp/232.84.3.29:11878
+#EXTINF:-1 tvg-id="vstv486" tvg-name="Vĩnh Long 1 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png",Vĩnh Long 1 HD
+http://hado.duckdns.org:4022/udp/232.84.3.152:10882
+#EXTINF:-1 tvg-id="vstv609" tvg-name="SCTV8" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png",SCTV8
+http://hado.duckdns.org:4022/udp/232.84.3.28:11884
+#EXTINF:-1 tvg-id="vstv610" tvg-name="SCTV9" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png",SCTV9
+http://hado.duckdns.org:4022/udp/232.84.3.27:11890
+#EXTINF:-1 tvg-id="vstv487" tvg-name="Vĩnh Long 2 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png",Vĩnh Long 2 HD
+http://hado.duckdns.org:4022/udp/232.84.3.164:10888
+#EXTINF:-1 tvg-id="vstv488" tvg-name="Vĩnh Long 3 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png",Vĩnh Long 3 HD
+http://hado.duckdns.org:4022/udp/232.84.3.165:10900
+#EXTINF:-1 tvg-id="vstv611" tvg-name="SCTV11" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png",SCTV11
+http://hado.duckdns.org:4022/udp/232.84.3.26:11896
+#EXTINF:-1 tvg-id="vstv612" tvg-name="SCTV12" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png",SCTV12
+http://hado.duckdns.org:4022/udp/232.84.3.25:11902
+#EXTINF:-1 tvg-id="vstv053" tvg-name="ANTV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png",ANTV
+http://hado.duckdns.org:4022/udp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="vstv264" tvg-name="ON Sports (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports (HD)
+http://hado.duckdns.org:4022/udp/232.84.1.207:9216
+#EXTINF:-1 tvg-id="vstv265" tvg-name="ON Football (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football (HD)
+http://hado.duckdns.org:4022/udp/232.84.1.210:9234
+#EXTINF:-1 tvg-id="vstv613" tvg-name="SCTV13" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png",SCTV13
+http://hado.duckdns.org:4022/udp/232.84.3.24:11908
+#EXTINF:-1 tvg-id="vstv614" tvg-name="SCTV14" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png",SCTV14
+http://hado.duckdns.org:4022/udp/232.84.3.23:11914
+#EXTINF:-1 tvg-id="vstv587" tvg-name="SPOTV (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png",SPOTV (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.111:10666
+#EXTINF:-1 tvg-id="vstv588" tvg-name="SPOTV2 (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png",SPOTV2 (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.129:10672
+#EXTINF:-1 tvg-id="vstv616" tvg-name="SCTV16" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png",SCTV16
+http://hado.duckdns.org:4022/udp/232.84.3.21:11926
+#EXTINF:-1 tvg-id="vstv618" tvg-name="SCTV18" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png",SCTV18
+http://hado.duckdns.org:4022/udp/232.84.3.19:11938
+#EXTINF:-1 tvg-id="vstv619" tvg-name="SCTV19" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png",SCTV19
+http://hado.duckdns.org:4022/udp/232.84.3.18:11944
+#EXTINF:-1 tvg-id="vstv620" tvg-name="SCTV20" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png",SCTV20
+http://hado.duckdns.org:4022/udp/232.84.3.17:11950
+#EXTINF:-1 tvg-id="vstv621" tvg-name="SCTV21" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png",SCTV21
+http://hado.duckdns.org:4022/udp/232.84.3.16:11956
+#EXTINF:-1 tvg-id="vstv279" tvg-name="NHK World Japan HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/6a/a4/46/6f/f0/0f/6a46f-pnhkworldjapanhd-channel-unkn.png",NHK World Japan HD
+http://hado.duckdns.org:4022/udp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="vstv564" tvg-name="Box Hits (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e6/6b/b5/56/68/84/e6b56-pboxhitshd-channel-unkn.png",Box Hits (HD)
+http://hado.duckdns.org:4022/udp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="vstv615" tvg-name="SCTV15 - SSportT2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png",SCTV15 - SSportT2
+http://hado.duckdns.org:4022/udp/232.84.3.22:11920
+#EXTINF:-1 tvg-id="vstv617" tvg-name="SCTV17 - Ssport" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png",SCTV17 - Ssport
+http://hado.duckdns.org:4022/udp/232.84.3.20:11932
+#EXTINF:-1 tvg-id="vstv622" tvg-name="SCTV 22 - SSportT1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png",SCTV 22 - SSportT1
+http://hado.duckdns.org:4022/udp/232.84.3.15:11962
+#EXTINF:-1 tvg-id="vstv490" tvg-name="Vĩnh Long 4 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f6/6b/b2/29/99/9c/f6b29-pvnhlong4hd-channel-unkn.png",Vĩnh Long 4 HD
+http://hado.duckdns.org:4022/udp/232.84.3.160:10912
+#EXTINF:-1 tvg-id="vstv562" tvg-name="Music Box (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ab/bd/d3/3e/e6/64/abd3e-pmusicboxhd-channel-unkn.png",Music Box (HD)
+http://hado.duckdns.org:4022/udp/232.84.1.13:8052
+#EXTINF:-1 tvg-id="vstv551" tvg-name="DreamWorks (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png",DreamWorks (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.227:11284
+#EXTINF:-1 tvg-id="vstv073" tvg-name="HTVC Gia Đình (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ba/a1/1c/c4/4a/a9/ba1c4-phtvcgianhhd-channel-unkn.png",HTVC Gia Đình (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.52:11740
+#EXTINF:-1 tvg-id="vstv245" tvg-name="TV5 MONDE" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/79/92/2a/a7/76/64/792a7-ptv5monde-channel-unkn.png",TV5 MONDE
+http://hado.duckdns.org:4022/udp/232.84.1.45:8250
+#EXTINF:-1 tvg-id="vstv454" tvg-name="VTV8 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/0f/f4/4d/d7/75/51/0f4d7-pvtv8hd-channel-unkn.png",VTV8 HD
+http://hado.duckdns.org:4022/udp/232.84.3.104:10612
+#EXTINF:-1 tvg-id="vstv455" tvg-name="VTV9 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 HD
+http://hado.duckdns.org:4022/udp/232.84.2.35:10618
+#EXTINF:-1 tvg-id="vstv386" tvg-name="HTV Thuần Việt HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8b/b4/4f/fa/aa/a0/8b4fa-phtvthunvithd-channel-unkn.png",HTV Thuần Việt HD
+http://hado.duckdns.org:4022/udp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="vstv387" tvg-name="HTVC Phim HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/0f/f5/59/92/2f/f6/0f592-phtvcphimhd-channel-unkn.png",HTVC Phim HD
+http://hado.duckdns.org:4022/udp/232.84.3.118:9594
+#EXTINF:-1 tvg-id="vstv075" tvg-name="HTV3 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png",HTV3 HD
+http://hado.duckdns.org:4022/udp/232.84.3.56:11716
+#EXTINF:-1 tvg-id="vstv034" tvg-name="ON O2TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/85/52/20/05/5f/fc/85205-pono2tvhd-channel-unkn.png",ON O2TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.74:11608
+#EXTINF:-1 tvg-id="vstv272" tvg-name="HTV2 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png",HTV2 HD
+http://hado.duckdns.org:4022/udp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="vstv273" tvg-name="HTV7 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7 HD
+http://hado.duckdns.org:4022/udp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="vstv274" tvg-name="HTV9 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9 HD
+http://hado.duckdns.org:4022/udp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="vstv310" tvg-name="ON Vie Giải trí" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/0c/c1/12/24/4c/cd/0c124-ponviegiitr-channel-unkn.png",ON Vie Giải trí
+http://hado.duckdns.org:4022/udp/232.84.3.78:11584
+#EXTINF:-1 tvg-id="vstv303" tvg-name="ON Phim Việt HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/3d/d2/24/49/9e/ed/3d249-ponphimvithd-channel-unkn.png",ON Phim Việt HD
+http://hado.duckdns.org:4022/udp/232.84.3.77:11590
+#EXTINF:-1 tvg-id="vstv308" tvg-name="ON Vie Dramas" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png",ON Vie Dramas
+http://hado.duckdns.org:4022/udp/232.84.3.218:11230
+#EXTINF:-1 tvg-id="vstv306" tvg-name="ON E Channel" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/7a/a9/95/5d/d5/5a/7a95d-ponechannel-channel-unkn.png",ON E Channel
+http://hado.duckdns.org:4022/udp/232.84.3.76:11596
+#EXTINF:-1 tvg-id="vstv311" tvg-name="On Sports+ HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",On Sports+ HD
+http://hado.duckdns.org:4022/udp/232.84.3.75:11602
+#EXTINF:-1 tvg-id="vstv301" tvg-name="ON Bibi HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b4/43/30/0a/ac/cb/b430a-ponbibihd-channel-unkn.png",ON Bibi HD
+http://hado.duckdns.org:4022/udp/232.84.3.217:11224
+#EXTINF:-1 tvg-id="vstv307" tvg-name="ON Style TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/6d/df/f4/4e/ee/e9/6df4e-ponstyletvhd-channel-unkn.png",ON Style TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.71:11626
+#EXTINF:-1 tvg-id="vstv309" tvg-name="ON Trending HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/05/5e/eb/b9/95/55/05eb9-pontrendinghd-channel-unkn.png",ON Trending HD
+http://hado.duckdns.org:4022/udp/232.84.3.69:11638
+#EXTINF:-1 tvg-id="vstv305" tvg-name="ON Cine HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",ON Cine HD
+http://hado.duckdns.org:4022/udp/232.84.3.72:11620
+#EXTINF:-1 tvg-id="vstv512" tvg-name="VTV5 Tây Nam Bộ (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png",VTV5 Tây Nam Bộ (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.86:11542
+#EXTINF:-1 tvg-id="vstv072" tvg-name="HTVC Ca Nhạc (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b8/8b/bd/da/ae/eb/b8bda-phtvccanhchd-channel-unkn.png",HTVC Ca Nhạc (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.54:11728
+#EXTINF:-1 tvg-id="vstv278" tvg-name="Outdoor HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/58/84/45/5f/f8/8c/5845f-poutdoorhd-channel-unkn.png",Outdoor HD
+http://hado.duckdns.org:4022/udp/232.84.1.107:10218
+#EXTINF:-1 tvg-id="vstv589" tvg-name="VTV5 Tây Nguyên (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.66:11656
+#EXTINF:-1 tvg-id="vstv356" tvg-name="Cao Bằng TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a0/0d/d4/4e/e8/8d/a0d4e-pcaobngtv-channel-unkn.png",Cao Bằng TV
+http://hado.duckdns.org:4022/udp/232.84.3.202:11134
+#EXTINF:-1 tvg-id="vstv237" tvg-name="Lạng Sơn TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/0a/ab/b3/38/88/8d/0ab38-plngsntvhd-channel-unkn.png",Lạng Sơn TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.203:11140
+#EXTINF:-1 tvg-id="vstv337" tvg-name="QPVN (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png",QPVN (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="vstv325" tvg-name="ON Vfamily HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/27/7a/a7/71/1f/f0/27a71-ponvfamilyhd-channel-unkn.png",ON Vfamily HD
+http://hado.duckdns.org:4022/udp/232.84.3.68:11644
+#EXTINF:-1 tvg-id="vstv394" tvg-name="DW-HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/38/85/5a/aa/a1/1b/385aa-pdwhd-channel-unkn.png",DW-HD
+http://hado.duckdns.org:4022/udp/232.84.3.154:10416
+#EXTINF:-1 tvg-id="vstv392" tvg-name="France24" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b2/26/6b/bc/c6/6d/b26bc-pfrance24-channel-unkn.png",France24
+http://hado.duckdns.org:4022/udp/232.84.3.145:9606
+#EXTINF:-1 tvg-id="vstv393" tvg-name="KBS World" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/82/2f/fb/b6/6d/d7/82fb6-pkbsworld-channel-unkn.png",KBS World
+http://hado.duckdns.org:4022/udp/232.84.2.136:9612
+#EXTINF:-1 tvg-id="vstv069" tvg-name="HTVC Du Lịch Cuộc Sống (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/8d/d4/4a/a5/5f/fb/8d4a5-phtvcdulchcucsnghd-channel-unkn.png",HTVC Du Lịch Cuộc Sống (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.53:11734
+#EXTINF:-1 tvg-id="vstv449" tvg-name="Channel News Asia HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/69/91/15/50/06/60/69150-pchannelnewsasiahd-channel-unkn.png",Channel News Asia HD
+http://hado.duckdns.org:4022/udp/232.84.3.155:10540
+#EXTINF:-1 tvg-id="vstv384" tvg-name="DaVinci HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b0/0b/b6/6e/e8/86/b0b6e-pdavincihd-channel-unkn.png",DaVinci HD
+http://hado.duckdns.org:4022/udp/232.84.2.131:9582
+#EXTINF:-1 tvg-id="vstv584" tvg-name="THP3" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/c1/1b/b5/5b/b1/17/c1b5b-pthp3-channel-unkn.png",THP3
+http://hado.duckdns.org:4022/udp/232.84.3.83:11554
+#EXTINF:-1 tvg-id="vstv382" tvg-name="Asian Food Network (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/33/33/32/20/08/8d/33320-pasianfoodnetworkhd-channel-unkn.png",Asian Food Network (HD)
+http://hado.duckdns.org:4022/udp/232.84.2.129:9570
+#EXTINF:-1 tvg-id="vstv539" tvg-name="CINEMAWORLD HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png",CINEMAWORLD HD
+http://hado.duckdns.org:4022/udp/232.84.3.50:11752
+#EXTINF:-1 tvg-id="vstv481" tvg-name="Hải Phòng TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a9/9c/c3/35/56/6c/a9c35-phiphngtvhd-channel-unkn.png",Hải Phòng TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.142:10780
+#EXTINF:-1 tvg-id="vstv441" tvg-name="CNBC" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/58/81/1a/a0/03/36/581a0-pcnbc-channel-unkn.png",CNBC
+http://hado.duckdns.org:4022/udp/232.84.3.179:10488
+#EXTINF:-1 tvg-id="vstv097" tvg-name="HTVC Plus HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f0/0a/a3/31/1f/f3/f0a31-phtvcplushd-channel-unkn.png",HTVC Plus HD
+http://hado.duckdns.org:4022/udp/232.84.3.245:11392
+#EXTINF:-1 tvg-id="vstv246" tvg-name="Arirang" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/48/8c/cf/f9/9e/e6/48cf9-parirang-channel-unkn.png",Arirang
+http://hado.duckdns.org:4022/udp/232.84.1.43:8238
+#EXTINF:-1 tvg-id="vstv477" tvg-name="Hà Nội 1  HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/4a/ab/b7/75/55/55/4ab75-phni1hd-channel-unkn.png",Hà Nội 1  HD
+http://hado.duckdns.org:4022/udp/232.84.3.143:10738
+#EXTINF:-1 tvg-id="vstv484" tvg-name="Phú Thọ TV (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/3d/d4/46/6a/a3/32/3d46a-pphthtvhd-channel-unkn.png",Phú Thọ TV (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.148:10792
+#EXTINF:-1 tvg-id="vstv478" tvg-name="Hà Nội 2 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f0/0f/f2/28/88/83/f0f28-phni2hd-channel-unkn.png",Hà Nội 2 HD
+http://hado.duckdns.org:4022/udp/232.84.3.137:10744
+#EXTINF:-1 tvg-id="vstv493" tvg-name="ON MOVIES (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e5/5e/ed/df/f8/8e/e5edf-ponmovieshd-channel-unkn.png",ON MOVIES (HD)
+http://hado.duckdns.org:4022/udp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="vstv494" tvg-name="ON InfoTV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/2a/a6/69/95/5a/a2/2a695-poninfotvhd-channel-unkn.png",ON InfoTV HD
+http://hado.duckdns.org:4022/udp/232.84.3.73:11614
+#EXTINF:-1 tvg-id="vstv495" tvg-name="ON MUSIC HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/2d/df/fc/c3/35/5d/2dfc3-ponmusichd-channel-unkn.png",ON MUSIC HD
+http://hado.duckdns.org:4022/udp/232.84.3.70:11632
+#EXTINF:-1 tvg-id="vstv496" tvg-name="ON Sports News" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
+http://hado.duckdns.org:4022/udp/232.84.2.193:10942
+#EXTINF:-1 tvg-id="vstv485" tvg-name="ON Golf" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png",ON Golf
+http://hado.duckdns.org:4022/udp/232.84.2.246:10876
+#EXTINF:-1 tvg-id="vstv480" tvg-name="Thái Nguyên" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d5/54/40/00/00/03/d5400-pthinguyn-channel-unkn.png",Thái Nguyên
+http://hado.duckdns.org:4022/udp/232.84.3.146:10774
+#EXTINF:-1 tvg-id="vstv070" tvg-name="HTV Phụ Nữ (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/de/ea/ad/d8/86/64/dead8-phtvphnhd-channel-unkn.png",HTV Phụ Nữ (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.51:11746
+#EXTINF:-1 tvg-id="vstv368" tvg-name="Tuyên Quang TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b6/61/1c/cf/fe/e0/b61cf-ptuynquangtv-channel-unkn.png",Tuyên Quang TV
+http://hado.duckdns.org:4022/udp/232.84.2.91:9138
+#EXTINF:-1 tvg-id="vstv602" tvg-name="ON Kids (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/57/7e/e3/3d/d3/3b/57e3d-ponkidshd-channel-unkn.png",ON Kids (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.41:11806
+#EXTINF:-1 tvg-id="vstv601" tvg-name="ON Life (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/63/38/88/8e/e2/23/6388e-ponlifehd-channel-unkn.png",ON Life (HD)
+http://hado.duckdns.org:4022/udp/232.84.3.40:11812
+#EXTINF:-1 tvg-id="vstv212" tvg-name="Lào Cai TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e6/64/49/95/59/99/e6495-plocaitv-channel-unkn.png",Lào Cai TV
+http://hado.duckdns.org:4022/udp/232.84.2.93:8718
+#EXTINF:-1 tvg-id="vstv498" tvg-name="Quảng Ninh1 (QTV1) HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/b5/51/11/10/0d/d1/b5110-pqungninh1qtv1hd-channel-unkn.png",Quảng Ninh1 (QTV1) HD
+http://hado.duckdns.org:4022/udp/232.84.1.248:10978
+#EXTINF:-1 tvg-id="vstv499" tvg-name="Quảng Ninh3 (QTV3) HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/c5/56/63/32/2a/a0/c5632-pqungninh3qtv3hd-channel-unkn.png",Quảng Ninh3 (QTV3) HD
+http://hado.duckdns.org:4022/udp/232.84.1.249:10984
+#EXTINF:-1 tvg-id="vstv361" tvg-name="Lai Châu TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/17/75/5b/b5/54/4f/175b5-plaichutv-channel-unkn.png",Lai Châu TV
+http://hado.duckdns.org:4022/udp/232.84.3.133:9174
+#EXTINF:-1 tvg-id="vstv598" tvg-name="DMAX (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/be/ed/de/e9/92/2a/bede9-pdmaxhd-channel-unkn.png",DMAX (HD)
+http://hado.duckdns.org:4022/udp/ 232.84.1.1:7980
+#EXTINF:-1 tvg-id="vstv359" tvg-name="Sơn La TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/bb/b7/75/54/4d/df/bb754-psnlatv-channel-unkn.png",Sơn La TV
+http://hado.duckdns.org:4022/udp/232.84.1.184:9078
+#EXTINF:-1 tvg-id="vstv362" tvg-name="Điện Biên TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/18/8b/bd/d3/30/0a/18bd3-pinbintv-channel-unkn.png",Điện Biên TV
+http://hado.duckdns.org:4022/udp/232.84.3.116:8880
+#EXTINF:-1 tvg-id="vstv257" tvg-name="Ninh Bình TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e9/97/7f/fb/be/e9/e97fb-pninhbnhtv-channel-unkn.png",Ninh Bình TV
+http://hado.duckdns.org:4022/udp/232.84.3.89:11518
+#EXTINF:-1 tvg-id="vstv525" tvg-name="Thanh Hóa TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/54/4c/c8/80/06/6f/54c80-pthanhhatvhd-channel-unkn.png",Thanh Hóa TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.198:11110
+#EXTINF:-1 tvg-id="vstv515" tvg-name="Nghệ An (HD)" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/c0/04/40/0b/ba/ad/c040b-pnghanhd-channel-unkn.png",Nghệ An (HD)
+http://hado.duckdns.org:4022/udp/232.84.2.198:10972
+#EXTINF:-1 tvg-id="vstv479" tvg-name="Hà Tĩnh TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/cf/f0/0c/c8/8e/ed/cf0c8-phtnhtvhd-channel-unkn.png",Hà Tĩnh TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.134:10768
+#EXTINF:-1 tvg-id="vstv332" tvg-name="Đà Nẵng 1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/41/13/34/4b/ba/aa/4134b-pnng1-channel-unkn.png",Đà Nẵng 1
+http://hado.duckdns.org:4022/udp/232.84.1.146:8850
+#EXTINF:-1 tvg-id="vstv226" tvg-name="Đà Nẵng 2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/2a/ac/cd/df/f2/2a/2acdf-pnng2-channel-unkn.png",Đà Nẵng 2
+http://hado.duckdns.org:4022/udp/232.84.3.122:8856
+#EXTINF:-1 tvg-id="vstv353" tvg-name="DakLak TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/58/87/7e/e1/12/2a/587e1-pdaklaktv-channel-unkn.png",DakLak TV
+http://hado.duckdns.org:4022/udp/232.84.3.99:11464
+#EXTINF:-1 tvg-id="vstv354" tvg-name="Lâm Đồng TV3" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/bd/d0/0a/a6/6b/b4/bd0a6-plmngtv3-channel-unkn.png",Lâm Đồng TV3
+http://hado.duckdns.org:4022/udp/232.84.3.98:11458
+#EXTINF:-1 tvg-id="vstv238" tvg-name="Lâm Đồng TV1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/d1/16/6c/c0/0b/bd/d16c0-plmngtv1-channel-unkn.png",Lâm Đồng TV1
+http://hado.duckdns.org:4022/udp/232.84.3.58:11704
+#EXTINF:-1 tvg-id="vstv330" tvg-name="Đồng Nai 2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a7/7f/f9/97/7e/e7/a7f97-pngnai2-channel-unkn.png",Đồng Nai 2
+http://hado.duckdns.org:4022/udp/232.84.1.153:8892
+#EXTINF:-1 tvg-id="vstv476" tvg-name="Đồng Nai 1 HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/fc/c0/0c/c8/8a/ae/fc0c8-pngnai1hd-channel-unkn.png",Đồng Nai 1 HD
+http://hado.duckdns.org:4022/udp/232.84.3.112:10762
+#EXTINF:-1 tvg-id="vstv527" tvg-name="BTV9 - An Viên TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/28/82/24/44/4e/e7/28244-pbtv9anvintv-channel-unkn.png",BTV9 - An Viên TV
+http://hado.duckdns.org:4022/udp/232.84.3.199:11116
+#EXTINF:-1 tvg-id="vstv225" tvg-name="Tây Ninh TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ff/f2/20/02/21/16/ff202-ptyninh1-channel-unkn.png",Tây Ninh TV
+http://hado.duckdns.org:4022/udp/232.84.2.3:10314
+#EXTINF:-1 tvg-id="vstv228" tvg-name="Đồng Tháp TV2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/89/9e/ef/f7/7a/ad/89ef7-pngthptv2-channel-unkn.png",Đồng Tháp TV2
+http://hado.duckdns.org:4022/udp/232.84.3.204:11146
+#EXTINF:-1 tvg-id="vstv234" tvg-name="Cần Thơ TV1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/88/87/79/93/30/09/88793-pcnthtv1-channel-unkn.png",Cần Thơ TV1
+http://hado.duckdns.org:4022/udp/232.84.2.118:8838
+#EXTINF:-1 tvg-id="vstv215" tvg-name="Đồng Tháp TV1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png",Đồng Tháp TV1
+http://hado.duckdns.org:4022/udp/232.84.3.235:11332
+#EXTINF:-1 tvg-id="vstv230" tvg-name="An Giang 2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/21/19/97/73/3e/e0/21973-pangiang2-channel-unkn.png",An Giang 2
+http://hado.duckdns.org:4022/udp/232.84.3.81:11566
+#EXTINF:-1 tvg-id="vstv492" tvg-name="An Giang 1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/7d/d7/74/42/2c/c4/7d742-pangiang1-channel-unkn.png",An Giang 1
+http://hado.duckdns.org:4022/udp/232.84.3.161:10918
+#EXTINF:-1 tvg-id="vstv200" tvg-name="Cà Mau" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/bf/f6/69/9e/e0/0b/bf69e-pcmau-channel-unkn.png",Cà Mau
+http://hado.duckdns.org:4022/udp/232.84.2.117:8826
+#EXTINF:-1 tvg-id="vstv206" tvg-name="Quảng Trị HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/1d/d1/11/12/20/0b/1d112-pqungtrhd-channel-unkn.png",Quảng Trị HD
+http://hado.duckdns.org:4022/udp/232.84.3.46:11776
+#EXTINF:-1 tvg-id="vstv333" tvg-name="Huế TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/cf/f6/63/3e/e7/70/cf63e-phutv-channel-unkn.png",Huế TV
+http://hado.duckdns.org:4022/udp/232.84.2.106:9120
+#EXTINF:-1 tvg-id="vstv483" tvg-name="QuangNgaiTV1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a9/9b/b0/09/98/8f/a9b09-pquangngaitv1-channel-unkn.png",QuangNgaiTV1
+http://hado.duckdns.org:4022/udp/232.84.3.126:10798
+#EXTINF:-1 tvg-id="vstv203" tvg-name="Khánh Hòa" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",Khánh Hòa
+http://hado.duckdns.org:4022/udp/232.84.2.99:8958
+#EXTINF:-1 tvg-id="vstv801" tvg-name="801" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/91/1e/e6/66/6f/ff/91e66-p801-channel-unkn.png",801
+http://hado.duckdns.org:4022/udp/232.84.2.175:10858
+#EXTINF:-1 tvg-id="vstv802" tvg-name="802" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png",802
+http://hado.duckdns.org:4022/udp/232.84.2.176:10864
+#EXTINF:-1 tvg-id="vstv803" tvg-name="803" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f0/02/2e/e3/3d/dc/f02e3-p803-channel-unkn.png",803
+http://hado.duckdns.org:4022/udp/232.84.2.195:10954
+#EXTINF:-1 tvg-id="vstv804" tvg-name="804" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png",804
+http://hado.duckdns.org:4022/udp/232.84.2.196:10960
+#EXTINF:-1 tvg-id="vstv806" tvg-name="806" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/56/69/95/50/01/17/56950-p806-channel-unkn.png",806
+http://hado.duckdns.org:4022/udp/232.84.2.196:10960
+#EXTINF:-1 tvg-id="vstv807" tvg-name="807" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/736.png?ver=1",807
+http://hado.duckdns.org:4022/udp/232.84.1.142:10386
+#EXTINF:-1 tvg-id="vstv344" tvg-name="Gia Lai TV" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/73/3d/da/a2/26/6e/73da2-pgialaitv-channel-unkn.png",Gia Lai TV
+http://hado.duckdns.org:4022/udp/232.84.3.138:8904
+#EXTINF:-1 tvg-id="vstv345" tvg-name="QuangNgaiTV2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/f9/9b/b7/7e/e1/13/f9b7e-pquangngaitv2-channel-unkn.png",QuangNgaiTV2
+http://hado.duckdns.org:4022/udp/232.84.3.80:11572
+#EXTINF:-1 tvg-id="vstv201" tvg-name="Cần Thơ TV3" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/1f/f2/2a/af/f0/02/1f2af-pcnthtv3-channel-unkn.png",Cần Thơ TV3
+http://hado.duckdns.org:4022/udp/232.84.3.97:11470
+#EXTINF:-1 tvg-id="vstv335" tvg-name="Vĩnh Long 5" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/ed/dd/d9/94/47/74/edd94-pvnhlong5-channel-unkn.png",Vĩnh Long 5
+http://hado.duckdns.org:4022/udp/232.84.2.102:9114
+#EXTINF:-1 tvg-id="vstv328" tvg-name="Khánh Hòa 1" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/a0/0b/bf/fd/d6/6e/a0bfd-pkhnhha1-channel-unkn.png",Khánh Hòa 1
+http://hado.duckdns.org:4022/udp/232.84.2.74:9024
+#EXTINF:-1 tvg-id="vstv218" tvg-name="Lâm Đồng TV2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/88/85/59/96/63/3d/88596-plmngtv2-channel-unkn.png",Lâm Đồng TV2
+http://hado.duckdns.org:4022/udp/232.84.3.87:11530
+#EXTINF:-1 tvg-id="vstv482" tvg-name="Hưng Yên TV HD" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/11/14/40/0e/e5/54/1140e-phngyntvhd-channel-unkn.png",Hưng Yên TV HD
+http://hado.duckdns.org:4022/udp/232.84.3.110:10786
+#EXTINF:-1 tvg-id="vstv329" tvg-name="Cần Thơ TV2" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/12/23/3e/e2/20/05/123e2-pcnthtv2-channel-unkn.png",Cần Thơ TV2
+http://hado.duckdns.org:4022/udp/232.84.2.112:8940
+#EXTINF:-1 tvg-id="vstv357" tvg-name="Bắc Ninh" tvg-logo="https://s71102.cdn.mytvnet.vn/vimages/22/2e/e6/6e/ea/ad/22e6e-pbcninh-channel-unkn.png",Bắc Ninh
+http://hado.duckdns.org:4022/udp/232.84.3.100:11452
