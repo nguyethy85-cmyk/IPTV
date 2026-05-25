@@ -1,0 +1,41 @@
+name: Auto Sync TV360 Token
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  sync-token:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Get Latest Token From Website
+        run: |
+          PAGE=$(curl -s "https://vpsttt.vietanhtv.top/tv/")
+
+          TOKEN=$(echo "$PAGE" | grep -oP 'token=\K[a-zA-Z0-9]+(?=")' | head -n 1)
+
+          echo "TOKEN=$TOKEN" >> $GITHUB_ENV
+
+          echo "Latest Token: $TOKEN"
+
+      - name: Replace Tokens In M3U
+        run: |
+          find . -type f -name "*.m3u" -exec \
+          sed -Ei 's|(token=)[^"& ]+|\1'"$TOKEN"'|g' {} +
+
+      - name: Commit And Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git commit -m "Auto sync TV360 token" || echo "No changes"
+
+          git push
