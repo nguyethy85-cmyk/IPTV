@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NWtbAS5.png" group-title="MyTV Service",MyTV Promo
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/mux/b7ce34240f16cef478b00d034df7782b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NWtbAS5.png" group-title="MyTV Service",MyTV Promo
