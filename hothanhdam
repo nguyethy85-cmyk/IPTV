@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://hothanhdam:thanhdam1010@hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/xmltv/channels" 
+#EXTM3U url-tvg="http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/xmltv/channels" 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="d513f0eb6f4486081cb87a841cb8c3b3",Animal Planet (HD 10Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1810895829?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="9baf89a19bf83ced43fb720b660306c0",Animal Planet (HD 6.5Mbps)
