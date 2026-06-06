@@ -18,6 +18,7 @@ jobs:
           mkdir -p output
 
           curl -L --silent \
+          -A "Dalvik/2.1.0" \
           "https://pk79.io.vn/tv/" \
           -o output/playlist.m3u
 
