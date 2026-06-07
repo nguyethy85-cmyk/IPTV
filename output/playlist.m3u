@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/3678.png", 🔴 07/06-18:00 | song-lam-nghe-an-vs-pho-hien.ery-NE3w5k | BLV Bịp Con
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg", 🔴 07/06-18:00 | viettel-vs-cong-an-nhan-dan.Fx4y3S_4gr | BLV A Cỏ
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/3669.png", 🔴 07/06-18:00 | da-nang-vs-thanh-hoa.zXxWO9Rdet | BLV Quan Vũ
-https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png", 🔴 07/06-18:00 | binh-duong-vs-hoang-anh-gia-lai.IeHi41YsMx | BLV Rồng Đất
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg", 🟡 07/06-20:00 | indonesia-u19-vs-vietnam-u19.50yU8ZENvD | BLV Thợ Lặn
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg", 🔴 07/06-20:00 | indonesia-u19-vs-vietnam-u19.50yU8ZENvD | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg", 🟡 07/06-20:00 | indonesia-u19-vs-vietnam-u19.--sid0JOit | BLV Bịp Con
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg", 🔴 07/06-20:00 | indonesia-u19-vs-vietnam-u19.--sid0JOit | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg", 🟡 07/06-20:00 | oman-vs-mozambique.5fN4J51Nvx | BLV Tam Mao
-https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/392.png", 🟡 07/06-21:00 | shakhter-soligorsk-vs-slonim.alH5aZQCHB | BLV A Cỏ
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/392.png", 🔴 07/06-21:00 | shakhter-soligorsk-vs-slonim.alH5aZQCHB | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg", 🟡 07/06-23:30 | denmark-vs-ukraine.xYfq9Z6UzZ | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png", 🟡 07/06-23:30 | uganda-vs-madagascar.SZUmG0A1R_ | BLV Rồng Đất
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png", 🟡 08/06-00:00 | belgium-u17-vs-italy-u17.KrVJF4zZT5 | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png", 🟡 08/06-01:45 | croatia-vs-slovenia.-qvt88Ql7_ | BLV Bịp Con
@@ -29,6 +17,32 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png", 🟡 08/06-02:00 | morocco-vs-norway.8n3m2hAR6R | BLV Rồng Đất
 https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg", 🟡 07/06-23:00 | maldives-vs-bangladesh-u23.P6ap1DnH-9 | BLV Rồng Đất
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg", 🟡 08/06-06:00 | colombia-vs-jordan.EYt03JcINo | BLV Quan Vũ
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/78529.png?lm=1774689473", 🟡 08/06-17:00 | guangdong-chenxingjuli-taizhou-morning-tea-dark-horse.JKdI9BNFEV | BLV Quan Vũ
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png", 🟡 08/06-18:00 | phap-nu-u23-my-u20-nu.xXQhnD9OZ4 | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 🟡 08/06-20:00 | thailand-u19-vs-malaysia-u19.nnPJuSWTRY | BLV Rồng Đất
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg", 🟡 08/06-20:00 | singapore-u19-vs-brunei-u19.0-tmioQxoP | BLV Tam Mao
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/7520.png", 🟡 08/06-21:00 | masr-vs-wadi-degla.Q4Y4GFWmNo | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/18262.png", 🟡 08/06-22:00 | senegal-w-vs-nigeria-w.0IYFeJssYr | BLV Tam Mao
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/11069.png", 🟡 08/06-22:30 | baghdad-vs-karbala.e2ymhczrrJ | BLV Bịp Con
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png", 🟡 08/06-23:00 | uganda-vs-madagascar.3sGLgaI9H1 | BLV Rồng Đất
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ENPPI_SC_Logo.svg/250px-ENPPI_SC_Logo.svg.png", 🟡 09/06-00:00 | enppi-vs-al-masry.YfX_PWm7lG | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 🟡 09/06-01:45 | netherlands-vs-uzbekistan._rwy3H3SjX | BLV Bịp Con
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2.png", 🟡 09/06-02:10 | france-vs-northern-ireland.VaWfL2YuxK | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -90,46 +104,25 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/b25d37216425034b6695ec3c3119d07d.png!w80", 🔴 07/06 - 17:30 | Giải K2 Hàn Quốc | Seoul E Land FC vs Cheongju Jikji | BLV POCARI
-https://live05.msdht.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | Hà Nội vs Thành phố Hồ Chí Minh | BLV ÔLONG
-https://live05.msdht.app/live/97312754.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | Phu Dong Ninh Binh vs Hồng Lĩnh Hà Tĩnh | BLV 7UP
-https://live05.msdht.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | SHB Đà Nẵng vs Đông Á Thanh Hóa | BLV PEPSI
-https://live05.msdht.app/live/43612277.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | Sông Lam Nghệ An vs PVF CAND | BLV C2
-https://live05.msdht.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | Thể Công - Viettel vs Cong An Ha Noi FC | BLV Cozy
-https://live05.msdht.app/live/87379114.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80", 🔴 07/06 - 18:00 | Giải vô địch quốc gia Việt Nam | XM Hai Phong vs Nam Định | BLV COCA
-https://live05.msdht.app/live/24561735.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/b54085c29e27a9e536edd805213c7e6f.png!w80", 🔴 07/06 - 19:00 | Giải hạng Ba Thụy Điển | Pitea vs Enkopings SK | BLV BÍ ĐAO
 https://live05.msdht.app/live/99121525.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80", 🕒 07/06 - 20:00 | Giao hữu Quốc tế | Kenya vs Lesotho | BLV STING
-https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/500739868ce9f7f0857260404eab4d41.png!w80", 🕒 07/06 - 20:00 | Giao hữu Quốc tế | Oman vs Mozambique | BLV SPRITE
-https://live05.msdht.app/live/90725470.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🕒 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV COCA
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV COCA
 https://live05.msdht.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🕒 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV Cozy
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV Cozy
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🕒 07/06 - 20:00 | AFF Championship U19 | Đông Timor U19 vs Myanmar U19 | BLV SODA
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Đông Timor U19 vs Myanmar U19 | BLV SPRITE
+https://live05.msdht.app/live/90725470.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Đông Timor U19 vs Myanmar U19 | BLV SODA
 https://live05.msdht.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a7ce4026f43a4491f1284bb38d96f440.png!w80", 🕒 07/06 - 20:00 | Giao hữu Quốc tế | Liechtenstein vs Đảo Síp | BLV PEPSI
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80", 🔴 07/06 - 20:00 | Giao hữu Quốc tế | Kenya vs Lesotho | BLV STING
+https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a7ce4026f43a4491f1284bb38d96f440.png!w80", 🔴 07/06 - 20:00 | Giao hữu Quốc tế | Liechtenstein vs Đảo Síp | BLV PEPSI
 https://live05.msdht.app/live/43612277.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3090d2868936f0f73f36844a43d5ce8f.png!w80", 🕒 07/06 - 21:15 | La Liga Royal Spanish Football Federation | Celta Vigo B vs Europa | BLV BÍ ĐAO
@@ -156,20 +149,20 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80", 🕒 08/06 - 01:45 | Giao hữu Quốc tế | Croatia vs Slovenia | BLV REVIVE
 https://live05.msdht.app/live/33982309.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Hy Lạp vs Ý | BLV ÔLONG
-https://live05.msdht.app/live/97312754.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Hy Lạp vs Ý | BLV COCA
-https://live05.msdht.app/live/24561735.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Ma Rốc vs Na Uy | BLV GIÀ LÀNG
-https://live05.msdht.app/live/14830711.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/eff9bb17ae54a84068dfc3b9f1f628cb.png!w80", 🕒 08/06 - 02:00 | Giải bóng đá Hạng nhì Tây Ban Nha | Las Palmas vs Malaga | BLV PEPSI
 https://live05.msdht.app/live/43612277.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80", 🕒 08/06 - 02:00 | Hiệp hội bóng rổ quốc gia nữ | Toronto Tempo vs Chicago Sky | BLV 247
 https://live05.msdht.app/live/90865415.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Ma Rốc vs Na Uy | BLV GIÀ LÀNG
+https://live05.msdht.app/live/14830711.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Hy Lạp vs Ý | BLV ÔLONG
+https://live05.msdht.app/live/97312754.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80", 🕒 08/06 - 02:00 | Giao hữu Quốc tế | Hy Lạp vs Ý | BLV COCA
+https://live05.msdht.app/live/24561735.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80", 🕒 08/06 - 03:00 | Giao hữu Quốc tế | Ecuador vs Guatemala | BLV MOUNTAIN DEW
 https://live05.msdht.app/live/87547578.m3u8
@@ -312,37 +305,25 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/8ac13b94a68e59b58cd3b404e2d5db3e.png!w80", 🕒 09/06 - 23:00 | Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu | Na Uy Nữ vs Áo Nữ | BLV PEPSI
 https://live05.msdht.app/live/43612277.m3u8
 
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png", 🔴 07/06/2026 18:00 | V.League 1 | Binh Duong vs Hoang Anh Gia Lai | BLV PHAN TỪ
-http://pk79.io.vn/hoiquanlive/play.php?id=1518103
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3669.png", 🔴 07/06/2026 18:00 | V.League 1 | Da Nang vs Thanh Hóa | BLV PHAN CA
-http://pk79.io.vn/hoiquanlive/play.php?id=1518104
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3670.png", 🔴 07/06/2026 18:00 | V.League 1 | Ha Noi vs Ho Chi Minh | BLV THẦN THÔNG
-http://pk79.io.vn/hoiquanlive/play.php?id=1518106
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png", 🔴 07/06/2026 18:00 | V.League 1 | Ninh Bình vs Hồng Lĩnh Hà Tĩnh | BLV PHAN ANH
-http://pk79.io.vn/hoiquanlive/play.php?id=1518107
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3678.png", 🔴 07/06/2026 18:00 | V.League 1 | Song Lam Nghe An vs Pho Hien | BLV PHAN QUẨY
-http://pk79.io.vn/hoiquanlive/play.php?id=1518108
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg", 🔴 07/06/2026 18:00 | V.League 1 | Viettel vs CAHN | BLV PHAN MÃ
-http://pk79.io.vn/hoiquanlive/play.php?id=1518109
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV PHAN QUẨY
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV PHAN MÃ
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV THẦN THÔNG
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/21.png", 07/06/2026 23:30 | Friendlies | Denmark vs Ukraine | BLV TÁO KINH TẾ 
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 🔴 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV PHAN MÃ
+http://pk79.io.vn/hoiquanlive/play.php?id=1547216
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 🔴 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV THẦN THÔNG
+http://pk79.io.vn/hoiquanlive/play.php?id=1547216
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 🔴 07/06/2026 20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | BLV PHAN QUẨY
+http://pk79.io.vn/hoiquanlive/play.php?id=1547216
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/392.png", 🔴 07/06/2026 21:00 | 1. Division | Shakhter Soligorsk vs Slonim | BLV LƯƠNG BỔNG
+http://pk79.io.vn/hoiquanlive/play.php?id=1534531
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/21.png", 07/06/2026 23:30 | Friendlies | Denmark vs Ukraine | BLV LƯƠNG BỔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1.png", 08/06/2026 00:00 | UEFA U17 Championship | Belgium U17 vs Italy U17 | BLV PHAN ANH
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1.png", 08/06/2026 00:00 | UEFA U17 Championship | Belgium U17 vs Italy U17 | BLV LƯƠNG BỔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png", 08/06/2026 01:00 | Friendlies | Kosovo vs Andorra | BLV TÁO KINH TẾ 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg", 08/06/2026 01:45 | Friendlies | Croatia vs Slovenia | BLV PHAN QUẨY
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1117.png", 08/06/2026 02:00 | Friendlies | Greece vs Italy | BLV THẦN THÔNG
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png", 08/06/2026 02:00 | Friendlies | Morocco vs Norway | BLV PHAN MÃ
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1117.png", 08/06/2026 02:00 | Friendlies | Greece vs Italy | BLV THẦN THÔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png", 08/06/2026 03:00 | Friendlies | Ecuador vs Guatemala | BLV LƯƠNG BỔNG
 https://google.com.vn
@@ -350,9 +331,9 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png", 08/06/2026 19:00 | Friendlies | Uganda vs Madagascar | BLV THẦN THÔNG
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 08/06/2026 20:00 | ASEAN Championship U19 | Thailand U19 vs Malaysia U19 | BLV PHAN MÃ
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 08/06/2026 20:00 | ASEAN Championship U19 | Thailand U19 vs Malaysia U19 | BLV PHAN QUẨY
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 08/06/2026 20:00 | ASEAN Championship U19 | Thailand U19 vs Malaysia U19 | BLV PHAN MÃ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 09/06/2026 01:45 | Friendlies | Netherlands vs Uzbekistan | BLV THẦN THÔNG
 https://google.com.vn
@@ -374,9 +355,9 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/22591.png", 09/06/2026 20:00 | ASEAN Championship U19 | Australia U19 vs Cambodia U19 | BLV PHAN MÃ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png", 09/06/2026 22:00 | Friendlies | Congo DR vs Chile | BLV LƯƠNG BỔNG
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/10346.png", 09/06/2026 22:00 | UEFA U19 Championship - Qualification | Serbia U19 vs Portugal U19 | BLV PHAN ANH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png", 09/06/2026 22:00 | Friendlies | Congo DR vs Chile | BLV LƯƠNG BỔNG
 https://google.com.vn
 
 
@@ -417,204 +398,395 @@ https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780386989152.jpg", Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780465101949.jpg", Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780452258749.jpg", Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780387639546.jpg", Sự Kiện 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6844_1gy3wms8nw1.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4779_1gxsf6qjy222.png", 🔴 07/06-17:30 | Suwon FC vs Cheonan City | BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=215452928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18800_1gtqpya7wd21.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F461_1gxsf6qkd726.png", 🔴 07/06-17:30 | Jeonnam Dragons vs Gimpo FC | BLV VƯƠNG LUÂN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=19e03acd-d454-4660-bdc5-8247f9147460
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18800_1gtqpya7wd21.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F461_1gxsf6qkd726.png", 🔴 07/06-17:30 | Jeonnam Dragons vs Gimpo FC | BLV SHIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=225452929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6844_1gy3wms8nw1.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4779_1gxsf6qjy222.png", 🔴 07/06-17:30 | Suwon FC vs Cheonan City | BLV TÔN LẬP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=479007e4-0e57-4232-9e81-b0221f16d316
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21791_1gxsf6qkx8d.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8917_1hvmw8sfz411.png", 🔴 07/06-17:30 | Chungbuk Cheongju vs Seoul E-Land FC | BLV TÂY MÔN KHÁNH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=335452920
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21791_1gxsf6qkx8d.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8917_1hvmw8sfz411.png", 🔴 07/06-17:30 | Chungbuk Cheongju vs Seoul E-Land FC | BLV VÕ TÒNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=e6c77c3c-508b-40dc-a335-0cfaabf43d5e
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6305_1h5bjfrpgq1n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png", 🔴 07/06-18:00 | Hoang Anh Gia Lai vs Becamex TP Ho Chi Minh | BLV LÝ QUỲ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=459784924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11726_1grfnycz2t19.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png", 🔴 07/06-18:00 | Cong An TP Ho Chi Minh vs Hanoi FC | BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=499784928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6305_1h5bjfrpgq1n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png", 🔴 07/06-18:00 | Hoang Anh Gia Lai vs Becamex TP Ho Chi Minh | BLV GẤU KA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=8106ea49-8042-40b7-909f-106496cff256
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21854_1hgvtfy5jt15.png", 🔴 07/06-18:00 | Cong An Ha Noi vs Viettel FC | BLV DƯƠNG CHÍ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=c75dff68-a923-4616-a0d3-290889478374
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8677_1hert71x392t.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png", 🔴 07/06-18:00 | Nam Dinh FC vs Hai Phong | BLV FERNANDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=449784923
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3398_1hg20ff0484.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8676_1h5e4e370y1r.png", 🔴 07/06-18:00 | Thanh Hoa vs Da Nang | BLV MAYBACH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=479784926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8677_1hert71x392t.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png", 🔴 07/06-18:00 | Nam Dinh FC vs Hai Phong | BLV LÃO HẠC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=b607e7c6-10d1-40ea-8ae8-1cd455063b71
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21854_1hgvtfy5jt15.png", 🔴 07/06-18:00 | Cong An Ha Noi vs Viettel FC | BLV PHI HỔ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=489784927
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F28124_1k5qqrea6410.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23896_1h5e4e370r1y.png", 🔴 07/06-18:00 | Hong Linh Ha Tinh vs Ninh Binh FC | BLV QUAN VŨ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=439784922
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8675_1hg4m05s0d13.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34477_1hrr4bsqf92k.png", 🔴 07/06-18:00 | PVF-CAND vs Song Lam Nghe An | BLV MÃ SIÊU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=469784925
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9559_1gtqmg9t2520.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9544_1h71mwa4sh2f.png", 07/06-19:00 | FC Molodechno vs Slutsksakhar Slutsk | BLV HÀN TÍN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=495696926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F658_16498375914.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F647_164984161994.png", 07/06-20:00 | Cyprus vs Liechtenstein | BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=4c37cfdc-2950-4503-8013-02972e229350
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F658_16498375914.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F647_164984161994.png", 07/06-20:00 | Cyprus vs Liechtenstein | BLV NGƯỜI THÉP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=386039927
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F787_1jqx9wme4v1p.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4509_165018839785.png", 07/06-20:00 | Mozambique vs Oman | BLV VÕ TÒNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=79a3dbac-2044-4141-b348-d2455c210b61
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LỮ BỐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=c93b2d70-3ad9-4f8c-bc84-f50053ed95a9
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LEO
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 🔴 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=f57f2618-bbbf-4d85-94f8-13487d7f0f40
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=495809922
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=f40edd01-264a-4a4a-9722-47f232ba8037
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9761_165699261879.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png", 07/06-20:00 | Myanmar U19 vs Timor Leste U19 | BLV TÔN LẬP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=8b9f541e-9e26-4a16-b616-5754f250c070
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9761_165699261879.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png", 07/06-20:00 | Myanmar U19 vs Timor Leste U19 | BLV KAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=306809924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F27165_1gtn84t30s13.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34393_1hce5639dd28.png", 07/06-20:00 | Albion FC vs Club Atletico Progreso | BLV TÂY MÔN KHÁNH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=497809924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F40095_1h661w73sy28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21031_1h3bw7a6qk2a.png", 07/06-20:00 | Colombia U19 vs Democratic Rep Congo U23 | BLV LÝ ỨNG
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F40095_1h661w73sy28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21031_1h3bw7a6qk2a.png", 🔴 07/06-20:00 | Colombia U19 vs Democratic Rep Congo U23 | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=328709927
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F787_1jqx9wme4v1p.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4509_165018839785.png", 07/06-20:00 | Mozambique vs Oman | BLV SHIN
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F658_16498375914.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F647_164984161994.png", 🔴 07/06-20:00 | Cyprus vs Liechtenstein | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=376039926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8024_1gwy1c0s1d29.png", 07/06-21:00 | Kommunalnik Slonim vs FK Soligorsk | BLV LÃO HẠC
+https://khaitv.dpdns.org/luongson/list2.php?id=386039927
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F658_16498375914.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F647_164984161994.png", 🔴 07/06-20:00 | Cyprus vs Liechtenstein | BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=4c37cfdc-2950-4503-8013-02972e229350
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 🔴 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LƯU BỊ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=f40edd01-264a-4a4a-9722-47f232ba8037
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F27165_1gtn84t30s13.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34393_1hce5639dd28.png", 🔴 07/06-20:00 | Albion FC vs Club Atletico Progreso | BLV TÂY MÔN KHÁNH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=497809924
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9761_165699261879.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png", 🔴 07/06-20:00 | Myanmar U19 vs Timor Leste U19 | BLV TÔN LẬP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=306809924
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 🔴 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV LỮ BỐ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=c93b2d70-3ad9-4f8c-bc84-f50053ed95a9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 🔴 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=15bf45ac-55bd-4a71-bbd8-8e5325727b0e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4120_1h59nzjzwv1s.png", 🔴 07/06-20:00 | Vietnam U19 vs Indonesia U19 | BLV KEVILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=495809922
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8024_1gwy1c0s1d29.png", 🔴 07/06-21:00 | Kommunalnik Slonim vs FK Soligorsk | BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=306696928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8024_1gwy1c0s1d29.png", 07/06-21:00 | Kommunalnik Slonim vs FK Soligorsk | BLV QUAN VŨ
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8024_1gwy1c0s1d29.png", 🔴 07/06-21:00 | Kommunalnik Slonim vs FK Soligorsk | BLV QUAN VŨ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=3611754a-ef40-49fd-9d03-d80151895b2d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6403_1grwgc3gyj2p.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3523_1gtqpszsvf1a.png", 07/06-21:00 | Avai FC vs Chapecoense SC | BLV FERNANDO
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29988_1ht90zqa35n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1188_1gxmc6avrb1m.png", 🔴 07/06-21:00 | Assyriska vs FC Arlanda | BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=367519929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6403_1grwgc3gyj2p.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3523_1gtqpszsvf1a.png", 07/06-21:00 | Avai FC vs Chapecoense SC | BLV DƯƠNG CHÍ
+https://khaitv.dpdns.org/luongson/list2.php?id=235002921
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29988_1ht90zqa35n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1188_1gxmc6avrb1m.png", 🔴 07/06-21:00 | Assyriska vs FC Arlanda | BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=36c2b26a-83a7-478c-9f2f-be3c558c88a8
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2667_1gxmc5m2exx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18851_1gtqprgbnc1e.png", 07/06-21:15 | CE Europa vs Celta vigo b | BLV VƯƠNG LUÂN
+https://khaitv.dpdns.org/luongson/list2.php?id=d988a61c-5bfd-4fd4-83df-2f390576303c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F757_1h434aw3w026.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F758_1h430bfr0616.png", 07/06-22:00 | Lithuania U21 vs Estonia U21 | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=d78749c1-fc12-445f-b682-3585522c7174
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2667_1gxmc5m2exx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18851_1gtqprgbnc1e.png", 07/06-21:15 | CE Europa vs Celta vigo b | BLV GẤU KA
+https://khaitv.dpdns.org/luongson/list2.php?id=656ae56e-9a03-4daa-aaef-0f5607ed81c6
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F757_1h434aw3w026.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F758_1h430bfr0616.png", 07/06-22:00 | Lithuania U21 vs Estonia U21 | BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=496719923
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F767_165018963180.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4355_1h59q4xy9m29.png", 07/06-23:00 | Bangladesh U23 vs Maldives | BLV LEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=17c82831-b5cd-4f8d-bc91-d4162b42e6ee
+https://khaitv.dpdns.org/luongson/list2.php?id=321639922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F767_165018963180.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4355_1h59q4xy9m29.png", 07/06-23:00 | Bangladesh U23 vs Maldives | BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=396039928
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F767_165018963180.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4355_1h59q4xy9m29.png", 07/06-23:00 | Bangladesh U23 vs Maldives | BLV LEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=17c82831-b5cd-4f8d-bc91-d4162b42e6ee
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F482_1j50e7cjp31z.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F150_1k1px8z1h7c.png", 07/06-23:00 | Brescia vs Ascoli | BLV MAYBACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=356419926
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F550_164983780989.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F546_1h406gpzk731.png", 07/06-23:30 | Ukraine vs Denmark | BLV LỮ BỐ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=306529923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F550_164983780989.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F546_1h406gpzk731.png", 07/06-23:30 | Ukraine vs Denmark | BLV TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=31eeeb44-0a18-4d0b-a0b9-95d0c8d032ef
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F550_164983780989.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F546_1h406gpzk731.png", 07/06-23:30 | Ukraine vs Denmark | BLV LƯU BỊ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=61b34779-15b3-4089-b4cf-144073e36a32
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1238_1gy3vpt0ee2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F909_1gy3vpn484g.png", 07/06-23:30 | Audax Italiano vs Universidad de Chile | BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=80479825-c56f-4b6d-90bc-95c6088fc3eb
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1238_1gy3vpt0ee2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F909_1gy3vpn484g.png", 07/06-23:30 | Audax Italiano vs Universidad de Chile | BLV HEINEKEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=308908926
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6631_1hr8p8jyza1p.png", 07/06-23:30 | Union La Calera vs Deportes La Serena | BLV HÀN TÍN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=497908924
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6631_1hr8p8jyza1p.png", 07/06-23:30 | Union La Calera vs Deportes La Serena | BLV NGƯỜI THÉP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=e4344563-1da2-445c-9f28-6b3c0afe21d3
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3537_1j0jf4rqkm2b.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4542_165718025284.png", 07/06-23:30 | Tunisia U23 vs China U19 | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=55b62b2d-e906-4b8b-80e7-f33c31985661
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3537_1j0jf4rqkm2b.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4542_165718025284.png", 07/06-23:30 | Tunisia U23 vs China U19 | BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=338709928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6631_1hr8p8jyza1p.png", 07/06-23:30 | Union La Calera vs Deportes La Serena | BLV NGƯỜI THÉP
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3573_165750403496.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png", 08/06-00:00 | Italy U17 vs Belgium U17 | BLV KEVILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=e4344563-1da2-445c-9f28-6b3c0afe21d3
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6631_1hr8p8jyza1p.png", 07/06-23:30 | Union La Calera vs Deportes La Serena | BLV HÀN TÍN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=497908924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1238_1gy3vpt0ee2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F909_1gy3vpn484g.png", 07/06-23:30 | Audax Italiano vs Universidad de Chile | BLV HEINEKEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=308908926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1238_1gy3vpt0ee2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F909_1gy3vpn484g.png", 07/06-23:30 | Audax Italiano vs Universidad de Chile | BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=80479825-c56f-4b6d-90bc-95c6088fc3eb
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F550_164983780989.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F546_1h406gpzk731.png", 07/06-23:30 | Ukraine vs Denmark | BLV LỮ BỐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=306529923
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F550_164983780989.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F546_1h406gpzk731.png", 07/06-23:30 | Ukraine vs Denmark | BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=61b34779-15b3-4089-b4cf-144073e36a32
+https://khaitv.dpdns.org/luongson/list2.php?id=338339927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3573_165750403496.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png", 08/06-00:00 | Italy U17 vs Belgium U17 | BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=96af5e5b-8a53-4df6-83e0-5a585d19bbad
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3573_165750403496.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png", 08/06-00:00 | Italy U17 vs Belgium U17 | BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=c1a47d7c-7bf4-482b-b6c3-d92b560d550d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3573_165750403496.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png", 08/06-00:00 | Italy U17 vs Belgium U17 | BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=338339927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2096_1hrb80xnnrx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1584_1htkbf6ndy1h.png", 08/06-01:00 | CA Penarol vs Cerro Montevideo | BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=308809926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4948_16498417922.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F779_164983680487.png", 08/06-01:00 | Andorra vs Kosovo | BLV QUAN VŨ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=3d866aea-5af5-4f1b-ac95-0f7bdf1edb77
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4948_16498417922.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F779_164983680487.png", 08/06-01:00 | Andorra vs Kosovo | BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=318829929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4948_16498417922.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F779_164983680487.png", 08/06-01:00 | Andorra vs Kosovo | BLV QUAN VŨ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=3d866aea-5af5-4f1b-ac95-0f7bdf1edb77
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F662_164983770149.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F545_164983609416.png", 08/06-01:45 | Slovenia vs Croatia | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=09214c07-68a8-48d1-8c34-c1d56d9dfa91
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F662_164983770149.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F545_164983609416.png", 08/06-01:45 | Slovenia vs Croatia | BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=363919929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F651_164983678863.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F665_164983674430.png", 08/06-02:00 | Italy vs Greece | BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=83ae7238-96c6-46ba-8b9a-075de012c802
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F855_1h71m9g00a1e.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F93_1h8qpskkvvk.png", 08/06-02:00 | Malaga vs Las Palmas | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=340529921
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F651_164983678863.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F665_164983674430.png", 08/06-02:00 | Italy vs Greece | BLV TÂY MÔN KHÁNH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=473919920
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F704_1hkv9bnt8sv.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F551_164983671192.png", 08/06-02:00 | Norway vs Morocco | BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=498519923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F704_1hkv9bnt8sv.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F551_164983671192.png", 08/06-02:00 | Norway vs Morocco | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=3630323a-2917-4743-a406-91baa7a0ce11
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F704_1hkv9bnt8sv.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F551_164983671192.png", 08/06-02:00 | Norway vs Morocco | BLV YẾN THANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=498519923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F704_1hkv9bnt8sv.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F551_164983671192.png", 08/06-02:00 | Norway vs Morocco | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=483c6227-9f88-4ccc-abdf-b2514117b03b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F704_1hkv9bnt8sv.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F551_164983671192.png", 08/06-02:00 | Norway vs Morocco | BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=8cc57a1a-3723-4904-9bb9-4cf259606dc6
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F651_164983678863.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F665_164983674430.png", 08/06-02:00 | Italy vs Greece | BLV TÂY MÔN KHÁNH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=473919920
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F651_164983678863.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F665_164983674430.png", 08/06-02:00 | Italy vs Greece | BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=83ae7238-96c6-46ba-8b9a-075de012c802
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F673_165018888622.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F693_165018922859.png", 08/06-03:00 | Guatemala vs Ecuador | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=316529924
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F673_165018888622.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F693_165018922859.png", 08/06-03:00 | Guatemala vs Ecuador | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=a6ff056c-29d7-4c94-b4ba-26dbf5d52522
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4339_1gqe67vv9y20.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F265_1htv34379c16.png", 08/06-03:30 | Quilmes vs San Martin Tucuman | BLV GẤU KA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=52d06063-4b7c-44a3-a563-841cd000b1ce
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4339_1gqe67vv9y20.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F265_1htv34379c16.png", 08/06-03:30 | Quilmes vs San Martin Tucuman | BLV HEINEKEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=216461929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4339_1gqe67vv9y20.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F265_1htv34379c16.png", 08/06-03:30 | Quilmes vs San Martin Tucuman | BLV GẤU KA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=52d06063-4b7c-44a3-a563-841cd000b1ce
 
-
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano dịu nhẹ cho tâm trí yên bình
+http://pk79.io.vn/myclip/play.php?id=12263482
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Tình Phai - Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11674550
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đã Mất (Ballad Ver)_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11874188
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn dương cầm cho buổi sáng nhiều năng lượng
+http://pk79.io.vn/myclip/play.php?id=12263638
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mưa Gió Làm Chi_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11815181
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bông Ô Môi - Dương Hồng Loan Ft Dương Ngọc Thái
+http://pk79.io.vn/myclip/play.php?id=11984866
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc piano nhẹ nhàng cho ngày dài thư thái
+http://pk79.io.vn/myclip/play.php?id=12263704
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Buồn Bên Song Cửa_Huy Thái
+http://pk79.io.vn/myclip/play.php?id=12038593
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | 1001 Lý Do_Thành Đạt
+http://pk79.io.vn/myclip/play.php?id=11756186
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời thư thái giữa chiều mưa nhẹ
+http://pk79.io.vn/myclip/play.php?id=12263656
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tân Cổ Xuân Xa Xứ_Sơn Hạ
+http://pk79.io.vn/myclip/play.php?id=11930911
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Từ khi em đến_Nguyễn Văn Chung
+http://pk79.io.vn/myclip/play.php?id=11874221
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn dương cầm thư giãn cho không gian riêng
+http://pk79.io.vn/myclip/play.php?id=12263701
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Yêu Em Hơn_Yuki Huy Nam
+http://pk79.io.vn/myclip/play.php?id=12038584
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xuân Đến_Trương Mộng Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11874245
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano nhẹ sâu cho buổi tối thư giãn
+http://pk79.io.vn/myclip/play.php?id=12263671
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Rồi Mọi Thứ Sẽ Trở Lại Bình Thường - Hamlet Trương.
+http://pk79.io.vn/myclip/play.php?id=11689655
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mưa Gió Làm Chi_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11815181
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm nhẹ nhàng cho tâm hồn thư thái
+http://pk79.io.vn/myclip/play.php?id=12266686
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Bỏ Anh Mà Đi_Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11874200
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930893
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những thanh âm không lời mang lại cảm giác bình thản
+http://pk79.io.vn/myclip/play.php?id=12263674
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhật Ký Đời Tôi - Mai Tuấn ft Trường Sơn
+http://pk79.io.vn/myclip/play.php?id=11674622
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
+http://pk79.io.vn/myclip/play.php?id=11756000
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano sâu trầm cho không gian tĩnh tại
+http://pk79.io.vn/myclip/play.php?id=12266731
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11930935
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nụ Cười Là Phép Màu _ Hamlet Trương.
+http://pk79.io.vn/myclip/play.php?id=11689634
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm mềm mại cho tâm trí thư giãn
+http://pk79.io.vn/myclip/play.php?id=12263446
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Thấy Gió - Trương Mộng Quỳnh.
+http://pk79.io.vn/myclip/play.php?id=11689622
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bốn Mùa Cha Mẹ_Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=12043222
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn âm thanh nhẹ nhàng cho giờ đọc sách
+http://pk79.io.vn/myclip/play.php?id=12263422
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930893
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đám Cưới Người Ta_Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=11874191
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu nhẹ nhàng từ phím đàn cho cảm xúc cân bằng
+http://pk79.io.vn/myclip/play.php?id=12263647
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Quê (Liveshow Thương Quá Việt Nam 2) - Hồ Quang Lộc
+http://pk79.io.vn/myclip/play.php?id=11674544
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bao Lần Em Khóc Remix_Kim Ny Ngọc
+http://pk79.io.vn/myclip/play.php?id=12081394
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm sâu lắng giữa đêm yên tĩnh
+http://pk79.io.vn/myclip/play.php?id=12263713
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức thư anh chưa gửi_Quốc Cường ft The Men
+http://pk79.io.vn/myclip/play.php?id=11815133
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Trăng Lệ Tình - Bảo Hưng - Như Hoa
+http://pk79.io.vn/myclip/play.php?id=11984935
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn âm thanh nhẹ nhàng cho giờ đọc sách
+http://pk79.io.vn/myclip/play.php?id=12263422
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Lạ_Nguyễn Hồng Ân
+http://pk79.io.vn/myclip/play.php?id=11874239
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hành Trình Trên Đất Phù Sa - Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11674538
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn nhẹ nhàng cho tâm hồn cần nghỉ ngơi
+http://pk79.io.vn/myclip/play.php?id=12263662
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Một Người Yêu Một Người Duy Nhất_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11930956
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đính Ước_Yến Ly - Lâm Hùng
+http://pk79.io.vn/myclip/play.php?id=11874197
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời cho phút giây riêng mình
+http://pk79.io.vn/myclip/play.php?id=12263617
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tết Nghèo_Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11930914
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đêm Nằm Nhớ Mẹ - Lê Huy
+http://pk79.io.vn/myclip/play.php?id=11984881
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những thanh âm piano ấm áp cho buổi tối cuối ngày
+http://pk79.io.vn/myclip/play.php?id=12263650
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Anh Xin Nhận Hết - Quách Thành Danh
+http://pk79.io.vn/myclip/play.php?id=11984851
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nét Mực Màu Thời Gian_Sơn Hạ
+http://pk79.io.vn/myclip/play.php?id=11815190
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh thư thái cho những phút giây sống chậm
+http://pk79.io.vn/myclip/play.php?id=12266728
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
+http://pk79.io.vn/myclip/play.php?id=11756000
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Vũ Khúc Đam Mê_Sơn Hạ
+http://pk79.io.vn/myclip/play.php?id=11874236
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano dịu nhẹ cho buổi chiều lặng gió
+http://pk79.io.vn/myclip/play.php?id=12263623
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thà Chưa Từng Quen (Liveshow Thương Quá Việt Nam 1) - Mai Tuấn Ft Trịnh Tuyết Hương
+http://pk79.io.vn/myclip/play.php?id=11984923
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Đường Mang Tên Em_Mai Tuấn - Đoàn Minh
+http://pk79.io.vn/myclip/play.php?id=11874185
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano nhẹ trôi cho những ngày yên ả
+http://pk79.io.vn/myclip/play.php?id=12263449
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11930935
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tấm Áo Không Lành - Phi Bằng.
+http://pk79.io.vn/myclip/play.php?id=11689679
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu nhẹ nhàng từ phím đàn cho cảm xúc cân bằng
+http://pk79.io.vn/myclip/play.php?id=12263647
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Anh Lính Nhân Quân_Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=11815148
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Calorie_Trương Mộng Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11755988
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn dịu êm cho khoảnh khắc nghỉ ngơi
+http://pk79.io.vn/myclip/play.php?id=12263716
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bao Lần Em Khóc Remix_Kim Ny Ngọc
+http://pk79.io.vn/myclip/play.php?id=12081394
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức thư anh chưa gửi_Quốc Cường ft The Men
+http://pk79.io.vn/myclip/play.php?id=11815133
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn piano sâu lắng cho tâm trí bình thản
+http://pk79.io.vn/myclip/play.php?id=12263515
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chót Lưỡi Đầu Môi_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11930887
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Duyên Trời Phận Ta - Duy Minh
+http://pk79.io.vn/myclip/play.php?id=12081361
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những thanh âm không lời cho tâm trạng nhẹ tênh
+http://pk79.io.vn/myclip/play.php?id=12263425
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cô Vợ Đa Nghi_Yến Ly
+http://pk79.io.vn/myclip/play.php?id=11930944
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bờ Vai Hay Bờ Vực? - Hamlet Trương Ft Phạm Quỳnh Anh
+http://pk79.io.vn/myclip/play.php?id=11984869
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập phím đàn không lời cho không gian nghỉ ngơi
+http://pk79.io.vn/myclip/play.php?id=12263455
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bất Đồng Quan Điểm_Đinh Kiến Phong
+http://pk79.io.vn/myclip/play.php?id=12038560
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhớ Người Yêu_Mai Tuấn - Lý Hải.
+http://pk79.io.vn/myclip/play.php?id=11689625
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm nhẹ nhàng cho giờ nghỉ trưa
+http://pk79.io.vn/myclip/play.php?id=12263500
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tân Cổ Xuân Xa Xứ_Sơn Hạ
+http://pk79.io.vn/myclip/play.php?id=11930911
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tình Khúc Chia Ly (Lofi Ver)_Kim Ny Ngọc
+http://pk79.io.vn/myclip/play.php?id=11930905
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm tinh tế cho khoảnh khắc sống chậm
+http://pk79.io.vn/myclip/play.php?id=12263668
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
+http://pk79.io.vn/myclip/play.php?id=11756000
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Để Mất Đi Mới Hối Tiếc_Dương Nhất Linh
+http://pk79.io.vn/myclip/play.php?id=12081328
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh không lời an yên cho khoảnh khắc nghỉ chân
+http://pk79.io.vn/myclip/play.php?id=12263506
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Gieo Chữ Đắng_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755982
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Suy Tư (Remix)_Peto
+http://pk79.io.vn/myclip/play.php?id=12038566
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc dương cầm thư giãn cho ngày dài khép lại
+http://pk79.io.vn/myclip/play.php?id=12263518
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Dĩ Vãng (Remix)_Peto
+http://pk79.io.vn/myclip/play.php?id=12081409
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Calorie_Trương Mộng Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11755988
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời giúp cảm xúc trở nên nhẹ nhàng hơn
+http://pk79.io.vn/myclip/play.php?id=12266698
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Rồi Mọi Thứ Sẽ Trở Lại Bình Thường - Hamlet Trương.
+http://pk79.io.vn/myclip/play.php?id=11689655
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Câu Chuyện Tình Yêu_Nhóm M4U
+http://pk79.io.vn/myclip/play.php?id=12081322
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm mềm mại cho tâm trí thư giãn
+http://pk79.io.vn/myclip/play.php?id=12263446
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Bỏ Anh Mà Đi_Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11874200
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mình sinh ra đâu phải để buồn_Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=11815175
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những thanh âm sâu lắng cho không gian yên bình
+http://pk79.io.vn/myclip/play.php?id=12263497
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sương Trắng Miền Quê Tôi - Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=11689673
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Suy Tư (Remix)_Peto
+http://pk79.io.vn/myclip/play.php?id=12038566
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc dương cầm mềm mại cho ngày dài mệt mỏi
+http://pk79.io.vn/myclip/play.php?id=12266719
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tấm Áo Không Lành - Phi Bằng.
+http://pk79.io.vn/myclip/play.php?id=11689679
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Quán Bên Hồ - Như Hoa
+http://pk79.io.vn/myclip/play.php?id=11984878
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn sâu lắng giữa không gian tĩnh lặng
+http://pk79.io.vn/myclip/play.php?id=12266695
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mùa Thu Năm Ấy_Hồ Trung Dũng
+http://pk79.io.vn/myclip/play.php?id=11815184
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Buồn Bên Song Cửa_Huy Thái
+http://pk79.io.vn/myclip/play.php?id=12038593
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời giúp cảm xúc trở nên nhẹ nhàng hơn
+http://pk79.io.vn/myclip/play.php?id=12266698
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bốn Mùa Cha Mẹ_Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=12043222
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cát Bụi Cũng Về Tay Trắng_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11874170
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh thư thái cho tâm hồn đang cần chữa lành
+http://pk79.io.vn/myclip/play.php?id=12263620
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tình Cũ Tình Mới (Remix) - Cao Sỹ Hùng
+http://pk79.io.vn/myclip/play.php?id=11984929
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sự Thật Em Không Muốn - Trương Ỹ Vân.
+http://pk79.io.vn/myclip/play.php?id=11689676
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc piano sâu trầm giữa không gian tĩnh lặng
+http://pk79.io.vn/myclip/play.php?id=12263464
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lời Em Hứa_Khưu Huy Vũ
+http://pk79.io.vn/myclip/play.php?id=12081343
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Làm Theo Di Chúc Thiêng Liêng - Nguyễn Duyên Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11674574
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano nhẹ tênh giữa buổi chiều mát lành
+http://pk79.io.vn/myclip/play.php?id=12263488
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | 1001 Lý Do_Thành Đạt
+http://pk79.io.vn/myclip/play.php?id=11756186
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Kiếp Nhân Sinh - Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=11674568
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh không lời nhẹ trôi qua từng cảm xúc
+http://pk79.io.vn/myclip/play.php?id=12263692
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bất Đồng Quan Điểm_Đinh Kiến Phong
+http://pk79.io.vn/myclip/play.php?id=12038560
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Khoảng Trời Duy Nhất_Vũ Bình Lê
+http://pk79.io.vn/myclip/play.php?id=11815172
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano dịu nhẹ cho tâm trí yên bình
+http://pk79.io.vn/myclip/play.php?id=12263482
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Kém Trí Nhớ - Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=11674562
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tết Nghèo_Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11930914
 
 #EXTINF:0 group-title="plus1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
@@ -956,36 +1128,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/live-michelob-ultra-asia-open-pickleball-tournament-2026-slide-thumb_1780663423393.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 12:55 - Michelob Ultra Asia Open Pickleball Tournament 2026: Ngày 7/6 - Buổi chiều
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-03
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/04/live-soudal-open-2026---dp-world-tour-2026-slider-thumb_1780555781318.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 15:00 - Soudal Open 2026 vòng 2: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a2222ff71866289aea60bea
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/7_1780638019379.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 16:00 - LPL 2026 Split 2: WE - TES
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780452593021.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:00 - SHB Đà Nẵng - Đông Á Thanh Hóa
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-31
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780465155088.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:00 - Sông Lam Nghệ An - PVF-CAND
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780457020068.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:00 - Becamex TP. Hồ Chí Minh - Hoàng Anh Gia Lai
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-19
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780387639546.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:45 - Hà Nội - Công An TP. Hồ Chí Minh
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-34
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780452258749.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:45 - Hải Phòng - Thép Xanh Nam Định
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-33
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/slider_1780465101949.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:45 - Thể Công-Viettel - Công An Hà Nội
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780386989152.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 17:45 - Ninh Bình - Hồng Lĩnh Hà Tĩnh
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-18
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/live-vba-2026-slide-thumb_1780473249244.jpg" group-title="⭐Sự kiện FPT OTT",07/06 - 19:15 - Danang Dragons - Saigon Heat
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-08
 
@@ -1007,38 +1149,14 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/slider_1780648829985.jpg" group-title="⭐Sự kiện FPT OTT",08/06 - 17:00 - Xuân Thiện Phú Thọ - Trường Tươi Đồng Nai: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a25439c684257c58ec4d82a
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/616212_small.png",🔴 17:30 - 07.06 | K-League 2 | Seoul E-Land FC vs Cheongju FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/rot-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109374_small.png",🔴 18:00 - 07.06 | V-League | HCM City vs Hoang Anh Gia Lai
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",🔴 20:00 - 07.06 | Friendlies | Liechtenstein vs Cyprus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/map-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png",🔴 18:00 - 07.06 | V-League | Da Nang vs Thanh Hoa FC
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",🔴 20:00 - 07.06 | ASEAN U19 Championship | Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/baroi-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png",🔴 18:00 - 07.06 | V-League | Song Lam Nghe An vs PVF-CAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",🔴 18:00 - 07.06 | V-League | Viettel vs Cong An Ha Noi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/chi-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",20:00 - 07.06 | Friendlies | Liechtenstein vs Cyprus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",20:00 - 07.06 | ASEAN U19 Championship | Indonesia vs Vietnam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/r1tKJPYg-AT53cBWn.png",21:00 - 07.06 | Hạng Nhất Belarus | Shakhter Soligorsk vs Kommunalnik Slonim
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/rot-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5899_small.png",23:00 - 07.06 | Friendlies | Maldives vs Bangladesh U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1143,11 +1261,11 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",17:00 - 09.06 | Friendlies | China vs Thailand
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",18:30 - 09.06 | Friendlies | Philippines vs Myanmar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",18:30 - 09.06 | Friendlies | Philippines vs Myanmar
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",18:35 - 09.06 | Friendlies | China vs Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -1420,51 +1538,9 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/0f/f3/3b/b7/7f/f1/0f3b7-lmotogphunggary1920duachinhbfd10jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 15:45 | MotoGP 2026: Grand Prix of Hungary_chặng 8  Đua chính
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
-#EXTINF:-1 tvg-logo="/vimages/345x194/e8/87/77/75/5b/b0/e8775-lrolandgarroschungketdoinuchungketdonnam19205f3bjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 15:55 | Chung kết Đôi Nữ & Chung kết Đơn Nam Roland Garros 2026
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=200
-#EXTINF:-1 tvg-logo="/vimages/345x194/ff/f4/45/51/1e/e4/ff451-llivevleaguehanoivscongantphochiminh1920594djpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:55 | Hà Nội vs Công an TP. Hồ Chí Minh Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=754
-#EXTINF:-1 tvg-logo="/vimages/345x194/66/69/9e/ea/a8/8d/669ea-llivevleagueninhbinhvshonglinhhatinh192010281jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:55 | Ninh Bình vs  Hồng Lĩnh Hà Tĩnh Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=760
-#EXTINF:-1 tvg-logo="/vimages/345x194/af/fd/d5/57/7f/fb/afd57-llivevleaguesonglamngheanvspvfcand19206d4ejpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:55 | Sông Lam Nghệ An vs PVF-CAND Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=670
-#EXTINF:-1 tvg-logo="/vimages/345x194/11/11/13/30/05/5b/11130-lvleaguebecamextphochiminhvshoanganhgialai1920d5a9j-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:57 | Becamex TP. Hồ Chí Minh vs Hoàng Anh Gia Lai Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="/vimages/345x194/ce/e8/85/56/60/0a/ce856-lvleaguethecongviettelvsconganhanoi19202f8103jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:57 | Thể Công - Viettel vs Công an Hà Nội Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=459
-#EXTINF:-1 tvg-logo="/vimages/345x194/a3/39/97/7b/b9/98/a397b-lvleaguedanangvsdongathanhhoa192023d29jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:57 |  SHB Đà Nẵng vs Đông Á Thanh Hóa Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=9
-#EXTINF:-1 tvg-logo="/vimages/345x194/62/20/02/2f/f2/2a/6202f-lvleaguebecamexhaiphongvsthepxanhnamdinh19201063jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 17:57 | Hải Phòng vs Thép Xanh Nam Định Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
 #EXTINF:-1 tvg-logo="/vimages/345x194/85/57/75/58/86/63/85758-lndaluciakvaddandaluciagovt1920round48bf4jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 18:00 | LIV Golf  Andalucia Round 4
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=757
-#EXTINF:-1 tvg-logo="/vimages/345x194/03/32/2f/f0/05/55/032f0-lvleaguedanangvsdongathanhhoa192073cdjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 18:00 |  SHB Đà Nẵng vs Đông Á Thanh Hóa Vòng 26 V.League 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
-#EXTINF:-1 tvg-logo="/vimages/345x194/1b/bd/d6/6d/d5/50/1bd6d-lbannerbongda7nguoiv5s8anbienvsstpfoodfc1920e46cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 18:30 | An Biên vs STPFood FC Vòng 5 SPL-S8 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=267
-#EXTINF:-1 tvg-logo="/vimages/345x194/e9/9e/e7/7b/b2/28/e9e7b-lbannerbongda7nguoiv5s8kubenvsbaynui1920109b6jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 18:30 | Ku Ben vs Bảy Núi Vòng 5 SPL-S8 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
-#EXTINF:-1 tvg-logo="/vimages/345x194/e9/97/79/91/17/77/e9791-ldoidualech27510jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 18:30 | Đôi Đũa Lệch   
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
-#EXTINF:-1 tvg-logo="/vimages/345x194/09/9b/b6/61/1f/fa/09b61-lmattroimuadonga109cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 | Mặt Trời Mùa Đông   
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=197
-#EXTINF:-1 tvg-logo="/vimages/345x194/85/5a/a9/9f/f3/3f/85a9f-ltrachquanky8ed5jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 |  Trạch Quân Ký                
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
-#EXTINF:-1 tvg-logo="/vimages/345x194/e1/14/47/79/92/2f/e1479-lchiecvongngochuyeta263jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 |  Chiếc Vòng Ngọc Huyết           
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=198
-#EXTINF:-1 tvg-logo="/vimages/345x194/7f/f5/5e/e5/55/58/7f5e5-lcasi2026tap31920a93cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 | Ca Sĩ 2026 - Tập 3
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=449
-#EXTINF:-1 tvg-logo="/vimages/345x194/c3/33/38/81/1f/f5/c3381-lcamtuanninh380ajpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 | Cẩm Tú An Ninh   
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=201
-#EXTINF:-1 tvg-logo="/vimages/345x194/bc/cd/d8/87/7c/c2/bcd87-lthanchuanhtrange071jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 19:00 | Thần Chú Ánh Trăng
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=435
-#EXTINF:-1 tvg-logo="/vimages/345x194/cf/f7/75/52/2f/f0/cf752-lkingarthur5f63jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 20:00 | King Arthur 
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="/vimages/345x194/8f/f2/25/54/42/21/8f254-lsavingprivateryan3a1djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 20:00 | Saving Private Ryan 
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
-#EXTINF:-1 tvg-logo="/vimages/345x194/bf/f9/9d/da/a3/31/bf9da-lchuchothongminhff31jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 20:30 | Chú Chó Thông Minh 
+#EXTINF:-1 tvg-logo="/vimages/345x194/bf/f9/9d/da/a3/31/bf9da-lchuchothongminhff31jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 20:30 | Chú Chó Thông Minh 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
 #EXTINF:-1 tvg-logo="/vimages/345x194/95/5b/b9/92/25/58/95b92-lmattroikhuyet89dajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 21:45 | Mặt Trời Khuyết                 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
@@ -1521,24 +1597,10 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/10/1780370258293/aae33e944757_640_360.jpg", 07/06-17:30 | KLM Open, ngày 4, kênh TV360+8
 http://pk79.io.vn/tv360/play360.php?id=sk8
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 07/06-18:00 | Xổ Số Miền Bắc, kênh On Movies
-http://pk79.io.vn/tv360/play.php?id=181
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780547635282/134038d44ea6_640_360.png", 07/06-18:00 | SHB Đà Nẵng vs Đông Á Thanh Hóa, kênh HTV4
-http://pk79.io.vn/tv360/play.php?id=9
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780548660532/288686c288b8_640_360.png", 07/06-18:00 | Ninh Bình vs Hồng Lĩnh Hà Tĩnh, kênh TV360+7
 http://pk79.io.vn/tv360/play360.php?id=sk7
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/10/1780542813390/7c87f9a0fa7f_640_360.png", 07/06-18:00 | Thể Công - Viettel vs Công an Hà Nội, kênh TV360+11
 http://pk79.io.vn/tv360/play360.php?id=sk11
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780546314276/1097804c9591_640_360.png", 07/06-18:00 | Hải Phòng vs Thép Xanh Nam Định, kênh TV360+14
-http://pk79.io.vn/tv360/play.php?id=10023
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780546699320/5f184fa26e68_640_360.png", 07/06-18:00 | Sông Lam Nghệ An vs PVF-CAND, kênh TV360+15
-http://pk79.io.vn/tv360/play.php?id=10024
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780547042429/6d0a559a29aa_640_360.png", 07/06-18:00 | Becamex TP.HCM vs Hoàng Anh Gia Lai, kênh HTV Thể Thao
-http://pk79.io.vn/tv360/play.php?id=195
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/16/178056603076/c942fdf46cca_640_360.png", 07/06-18:00 | Hà Nội vs Công an TP.HCM, kênh TV360+13
-http://pk79.io.vn/tv360/play.php?id=10022
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/18/1780571323542/1a3f4f5aed39_640_360.jpg", 07/06-19:00 | GIẢI VÔ ĐỊCH CẦU LÔNG TRẺ QUỐC GIA 2026 - CHUNG KẾT & LỄ TRAO GIẢI, kênh ON SPORTS NEWS
-http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/10/178054363826/2ab9e970e092_640_360.jpg", 07/06-19:40 | Formula 1 Louis Vuitton Grand Prix De Monaco 2026, Đua chính, kênh TV360+12
 http://pk79.io.vn/tv360/play360.php?id=sk12
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/05/14/1780644818918/e9039af1ad37_640_360.jpg", 07/06-20:00 | ROLAND GARROS 2026, Ngày 15 CHUNG KẾT ĐƠN NAM, kênh ON SPORTS
@@ -1567,124 +1629,13 @@ http://pk79.io.vn/tv360/play360.php?id=sk10
 http://pk79.io.vn/tv360/play360.php?id=sk6
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/12/1780463976918/7bb25af65bd1_640_360.png", 09/06-02:10 | Pháp vs Bắc Ireland, kênh TV360+4
 http://pk79.io.vn/tv360/play360.php?id=sk4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/12/1780464545735/b80b681817c7_640_360.png", 09/06-09:00 | Tây Ban Nha vs Peru, kênh TV360+4
+http://pk79.io.vn/tv360/play360.php?id=sk4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/05/09/1780626091416/b5b574560dcf_640_360.jpg", 09/06-20:00 | U19 Australia vs U19 Campuchia, kênh TV360+9
+http://pk79.io.vn/tv360/play360.php?id=sk9
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/11/1780459745493/1cb7e6dfa972_640_360.png", 11/06-03:00 | Anh vs Costa Rica, kênh TV360+5
+http://pk79.io.vn/tv360/play360.php?id=sk5
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-07/06: Cheonan City - Suwon FC (KOR D2) - BLV 24H
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=612928
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-07/06: Gimpo FC - Jeonnam Dragons (KOR D2) - BLV RYO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602019
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-07/06: Gimpo FC - Jeonnam Dragons (KOR D2) - BLV VIP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-07/06: Seoul E-Land FC - Chungbuk Cheongju FC (KOR D2) - BEN 10
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=612098
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-07/06: Seoul E-Land FC - Chungbuk Cheongju FC (KOR D2) - CƠM CHÁY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=611528
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - BLV KEM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=513394
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - HẢI THANH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - BLV RAMBO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - LOKA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - CÔNG CHẤT
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Becamex Ho Chi Minh City - Hoang Anh Gia Lai (VIE D1) - A BỆU
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - BLV CÒ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - THẠCH TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - LOGAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - TRÀ ĐÁ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - BLV ALEX
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: SHB Da Nang - Thanh Hoa (VIE D1) - BLV BÉO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: XM Hai Phong FC - Thep Xanh Nam Dinh FC (VIE D1) - PINKMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: XM Hai Phong FC - Thep Xanh Nam Dinh FC (VIE D1) - BLV TOMMY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: XM Hai Phong FC - Thep Xanh Nam Dinh FC (VIE D1) - BLV GÔN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=445260
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: XM Hai Phong FC - Thep Xanh Nam Dinh FC (VIE D1) - BLV MESSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Hanoi FC - Cong An Ho Chi Minh City (VIE D1) - BLV GIÓ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Hanoi FC - Cong An Ho Chi Minh City (VIE D1) - BLV WUKONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Hanoi FC - Cong An Ho Chi Minh City (VIE D1) - BLV KAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Ninh Binh FC - Hong Linh Ha Tinh (VIE D1) - BLV YONE
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Ninh Binh FC - Hong Linh Ha Tinh (VIE D1) - BLV LUCAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Ninh Binh FC - Hong Linh Ha Tinh (VIE D1) - BLV XO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Ninh Binh FC - Hong Linh Ha Tinh (VIE D1) - BLV VITAMIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Song Lam Nghe An - PVF-CAND FC (VIE D1) - A PÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Song Lam Nghe An - PVF-CAND FC (VIE D1) - BLV TOMIA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: Song Lam Nghe An - PVF-CAND FC (VIE D1) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - DECO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - BLV Củ Cải
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - TẠ BIÊN GIỚI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - BLV RÔSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - BLV A TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-07/06: The Cong Viettel - Cong An Ha Noi FC (VIE D1) - QUÂN JK
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=611178
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:30-07/06: Barangay Ginebra San Miguel - TNT Tropang 5G (PBCC) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:30-07/06: Barangay Ginebra San Miguel - TNT Tropang 5G (PBCC) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-07/06: Democratic Rep Congo U23 - Colombia U19 (TOUT) - BLV PICK
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
@@ -1754,15 +1705,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-07/06: Liechtenstein - Cyprus (INTERF) - BLV FIREMAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-07/06: Oman - Mozambique (INTERF) - ĐỖ TÚ TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-07/06: Oman - Mozambique (INTERF) - BLV KEM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=513394
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-07/06: Oman - Mozambique (INTERF) - BLV LONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 20:00-07/06: Lokomotiv Kuban - Zenit Petersburg (VTBUL) - A CHÈ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
@@ -2232,8 +2174,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Italy (720p)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hà Nội - Công An TP. Hồ Chí Minh" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780387639546.jpg" group-title="⭐ Sự kiện FPT", 🔴 07/06 17:45 | Hà Nội - Công An TP. Hồ Chí Minh
-https://live.fptplay53.net/live/media/su-kien-34/hls_avc_v6/index.m3u8
+
 
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/886.png", 🔴 26/05-18:30 | UEFA U17 Championship - Qualification | Italy U17 vs  France U17  | BLV Thần Thông
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
@@ -2697,31 +2638,15 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fb/Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg/500px-Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg.png", 🔴 07/06-18:00 | V.League 1 | Đà Nẵng vs Thanh Hóa | blvkhomuc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://www.slnafc.com/logo.png", 🔴 07/06-18:00 | V.League 1 | Sông Lam Nghệ An vs PVF_CAND | blvmason
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/35/Logo_CLB_Becamex_TP.HCM.png", 🔴 07/06-18:00 | V.League 1 | Becamex TP.HCM vs Hoàng Anh Gia Lai | blvcuccu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/fn-O2zrDPGnWVwdulFs7sg_96x96.png", 🔴 07/06-18:00 | V.League 1 | Viettel vs Công An Hà Nội | blvtrada
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 🔴 07/06-20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | blvtrada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", ⚪ 07/06-20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | blvtrada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", ⚪ 07/06-20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | blvcuccu
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/19149.png", 🔴 07/06-20:00 | ASEAN Championship U19 | Indonesia U19 vs Vietnam U19 | blvcuccu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/960px-Flag_of_East_Timor.svg.png", ⚪ 07/06-20:00 | ASEAN Championship U19 | Timor-Leste U19 vs Myanmar U19 | tieuhac
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/960px-Flag_of_East_Timor.svg.png", 🔴 07/06-20:00 | ASEAN Championship U19 | Timor-Leste U19 vs Myanmar U19 | tieuhac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
@@ -3143,22 +3068,6 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] Hà Nội vs Thành phố Hồ Chí Minh - BLV BLV ÔLONG (L1) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/97312754.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] Hà Nội vs Thành phố Hồ Chí Minh - BLV BLV ÔLONG (L2) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] SHB Đà Nẵng vs Đông Á Thanh Hóa - BLV BLV PEPSI (L1) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] SHB Đà Nẵng vs Đông Á Thanh Hóa - BLV BLV PEPSI (L2) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] Thể Công - Viettel vs Cong An Ha Noi FC - BLV BLV Cozy (L1) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/87379114.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 07/06] Thể Công - Viettel vs Cong An Ha Noi FC - BLV BLV Cozy (L2) Giải :Giải vô địch quốc gia Việt Nam
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="ColaTV",[19:00 07/06] Pitea vs Enkopings SK - BLV BLV BÍ ĐAO (L1) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png!w80" group-title="ColaTV",[19:00 07/06] Pitea vs Enkopings SK - BLV BLV BÍ ĐAO (L2) Giải :Giải hạng Ba Thụy Điển
-https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[20:00 07/06] Kenya vs Lesotho - BLV BLV STING (L1) Giải :Giao hữu Quốc tế
 https://live05.msdht.app/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[20:00 07/06] Kenya vs Lesotho - BLV BLV STING (L2) Giải :Giao hữu Quốc tế
@@ -3179,36 +3088,18 @@ https://live05.msdht.app/live/90725470.m3u8
 https://live05.msdht.app/live/43612277.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/45c47fad4b3de71014c5173e34430fcc.png!w80" group-title="ColaTV",[23:00 09/06] Na Uy Nữ vs Áo Nữ - BLV BLV PEPSI (L2) Giải :Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png" group-title="Hội Quán TV",[18:00 07/06] Binh Duong vs Hoang Anh Gia Lai - BLV PHAN TỪ (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png" group-title="Hội Quán TV",[18:00 07/06] Binh Duong vs Hoang Anh Gia Lai - BLV PHAN TỪ (HD)
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png" group-title="Hội Quán TV",[18:00 07/06] Binh Duong vs Hoang Anh Gia Lai - BLV PHAN TỪ (SD)
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3669.png" group-title="Hội Quán TV",[18:00 07/06] Da Nang vs Thanh Hóa - BLV PHAN CA (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3669.png" group-title="Hội Quán TV",[18:00 07/06] Da Nang vs Thanh Hóa - BLV PHAN CA (HD)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3669.png" group-title="Hội Quán TV",[18:00 07/06] Da Nang vs Thanh Hóa - BLV PHAN CA (SD)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3670.png" group-title="Hội Quán TV",[18:00 07/06] Ha Noi vs Ho Chi Minh - BLV THẦN THÔNG (FHD)
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3670.png" group-title="Hội Quán TV",[18:00 07/06] Ha Noi vs Ho Chi Minh - BLV THẦN THÔNG (HD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3670.png" group-title="Hội Quán TV",[18:00 07/06] Ha Noi vs Ho Chi Minh - BLV THẦN THÔNG (SD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19149.png" group-title="Hội Quán TV",[20:00 07/06] Indonesia U19 vs Vietnam U19 - BLV THẦN THÔNG (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19149.png" group-title="Hội Quán TV",[20:00 07/06] Indonesia U19 vs Vietnam U19 - BLV THẦN THÔNG (HD)
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19149.png" group-title="Hội Quán TV",[20:00 07/06] Indonesia U19 vs Vietnam U19 - BLV THẦN THÔNG (SD)
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV LƯƠNG BỔNG (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV LƯƠNG BỔNG (HD)
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV LƯƠNG BỔNG (SD)
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV TÁO KINH TẾ  (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV TÁO KINH TẾ  (HD)
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="Hội Quán TV",[21:00 07/06] Cộng Hòa Dominicana vs Hà Lan - BLV TÁO KINH TẾ  (SD)
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV",[00:30 08/06] Brazil  vs Italy - BLV PHAN BÁCH (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV",[00:30 08/06] Brazil  vs Italy - BLV PHAN BÁCH (HD)
@@ -3221,11 +3112,11 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Hội Quán TV",[04:00 08/06] Bulgaria vs Thổ Nhĩ Kỳ - BLV PHAN BÁCH (SD)
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (FHD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[17:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[17:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (HD)
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (SD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[17:00 08/06] Việt Nam vs Indonesia - BLV LƯƠNG BỔNG (SD)
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png" group-title="Hội Quán TV",[14:00 08/06] Lebanon vs Kazakhstan - BLV TÁO KINH TẾ  (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -3251,18 +3142,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[17:00 09/06] Kyrgyzstan vs Đài Loan - BLV PHAN HẢI (SD)
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 09/06] Philippin  vs Hàn Quốc - BLV PHAN HẢI (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 09/06] Philippin  vs Hàn Quốc - BLV PHAN HẢI (HD)
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 09/06] Philippin  vs Hàn Quốc - BLV PHAN HẢI (SD)
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 07/06] Philippines vs Úc  - BLV PHAN CA (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 07/06] Philippines vs Úc  - BLV PHAN CA (HD)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[20:00 07/06] Philippines vs Úc  - BLV PHAN CA (SD)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 09/06] Philippin  vs Hàn Quốc - BLV TÁO KINH TẾ  (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 09/06] Philippin  vs Hàn Quốc - BLV TÁO KINH TẾ  (HD)
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 09/06] Philippin  vs Hàn Quốc - BLV TÁO KINH TẾ  (SD)
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png" group-title="Hội Quán TV",[01:00 08/06] Kosovo vs Andorra - BLV TÁO KINH TẾ  (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png" group-title="Hội Quán TV",[01:00 08/06] Kosovo vs Andorra - BLV TÁO KINH TẾ  (HD)
@@ -3347,6 +3232,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" group-title="Hội Quán TV",[22:00 09/06] Congo DR vs Chile - BLV LƯƠNG BỔNG (SD)
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 09/06] Kyrgyzstan vs Úc  - BLV PHAN HẢI (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 09/06] Kyrgyzstan vs Úc  - BLV PHAN HẢI (HD)
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 09/06] Kyrgyzstan vs Úc  - BLV PHAN HẢI (SD)
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
