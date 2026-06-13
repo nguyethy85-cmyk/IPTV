@@ -120,13 +120,13 @@ https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=100
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 # -- TVHeadend Hothanhdam --
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="vtv2hd",VTV2 (HD 8.5Mbps)
+#EXTINF:-1 group-title="VTV (TVHeadend)" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="vtv2hd",VTV2 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/399877346?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="vtv3hd",VTV3 (HD 8.5Mbps)
+#EXTINF:-1 group-title="VTV (TVHeadend)" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="vtv3hd",VTV3 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/746611374?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="vtv7hd",VTV7 (HD 8.5Mbps)
+#EXTINF:-1 group-title="VTV (TVHeadend)" tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="vtv7hd",VTV7 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/1128327751?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="vtv9hd",VTV9 (HD 8.5Mbps)
+#EXTINF:-1 group-title="VTV (TVHeadend)" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="vtv9hd",VTV9 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/1553461577?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv10",VTV10 (HD 8.5Mbps)
+#EXTINF:-1 group-title="VTV (TVHeadend)" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv10",VTV10 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/961925140?profile=pass
