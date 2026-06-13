@@ -163,3 +163,24 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:0 tvg-id="vtv10" group-title="VTV (TV360)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
+
+# -- VieON (ko tiếp sóng WC 2026) --
+
+#EXTINF:-1 tvg-id="VTV2HD" tvg-name="VTV2 HD" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2024/02/21/j527tmpn_vtv2fb0f0ca93dfba4954a29885f6af270b0_468_134.png" group-title="VTV (VieON)",VTV2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942
+#EXTINF:-1 tvg-id="VTV3HD" tvg-name="VTV3 HD" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2024/02/21/21rq57q9_vtv3_468_134.png" group-title="VTV (VieON)",VTV3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV (VieON)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=06c12f81-4e79-4f1d-8559-8c3dc8d912b2
+#EXTINF:-1 tvg-id="VTV7HD" tvg-name="VTV7 HD" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2024/02/21/54c5e9h8_vtv7_468_134.png" group-title="VTV (VieON)",VTV7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=59875614-8872-4f86-a45b-9983068ee7ef
+#EXTINF:-1 tvg-id="VTV9HD" tvg-name="VTV9 HD" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2024/02/21/94wmixqw_vtv9_468_134.png" group-title="VTV (VieON)",VTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=8277b8a7-c0af-4182-92a0-ac7d091b3df5
+#EXTINF:-1 tvg-id="VTV10" tvg-name="VTV10 HD" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2026/03/30/kubu9f3e_logo-ngang_720x576f90659c40e9d157068d10abef4f1015a_468_134.png" group-title="VTV (VieON)",VTV10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://pk79.io.vn/vieon/play.php?id=66653680-a833-40e9-8b0e-a59677a3b395
