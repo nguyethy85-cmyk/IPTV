@@ -1,0 +1,46 @@
+name: IPTV Live Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Download IPTV Playlist
+        run: |
+          mkdir -p output
+
+          curl -L \
+          -A "Dalvik/2.1.0 (Linux; U; Android 12)" \
+          "https://tpkhai.dpdns.org/tv/" \
+          -o output/playlist.m3u || true
+
+          touch output/playlist.m3u
+
+          echo "===== FILE CHECK ====="
+          ls -lah output
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add output/playlist.m3u
+
+          git diff --cached --quiet && echo "No changes" || git commit -m "Auto update IPTV playlist"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
