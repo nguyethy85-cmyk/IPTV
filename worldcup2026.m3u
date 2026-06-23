@@ -90,7 +90,35 @@ https://tpkhai.dpdns.org/mytv1/live/vtv9_hd.php
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpkhai.dpdns.org/mytv1/live/vtv10_hd.php
 
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="VTV (MyTV Dự phòng)",VTV2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
 
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="VTV (MyTV Dự phòng)",VTV3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="VTV (MyTV Dự phòng)",VTV7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="VTV (MyTV Dự phòng)",VTV9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="VTV (MyTV Dự phòng)",VTV10
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
 
 # -- FPTPlay --
 
@@ -138,22 +166,22 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 
 # --- MyTV ---
 #EXTINF:-1 tvg-id="onfootball" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png" group-title="VTVcab (MyTV)",ON Football
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be7806d3022c46b3b9025163ed1d9dab:b2bfa9ff21baeded07ccf20446a5f58e
-#https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab18.png" group-title="VTVcab (MyTV)",ON Sports News
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42237749e6f549fc9686996eeaf2ec0c:7442b8f194b49deafdeb13c60128c4d1
-#https://s72140.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s72140.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsports" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab3.png" group-title="VTVcab (MyTV)",ON Sports
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc5ec8485544e2890c8b170bd61f944:bd77ec326b3e764d9711eb12fa8bb1ea
-#https://s76174.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
+https://s76174.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 
 # --- VTVprime ---
 
