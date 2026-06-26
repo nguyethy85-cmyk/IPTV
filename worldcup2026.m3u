@@ -68,7 +68,12 @@ https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="VTV (VTVGo)" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp",Kênh Tiếng Anh 1
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-
+#EXTINF:-1 group-title="VTV (VTVGo)" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp", Bình Luận Cảm xúc 2
+https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
+#EXTINF:-1 group-title="VTV (VTVGo)" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp", Tín Hiệu Nguyên Bản 2
+https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
+#EXTINF:-1 group-title="VTV (VTVGo)" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
+https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 # -- MyTV --
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV (MyTV)" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
