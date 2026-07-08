@@ -185,23 +185,22 @@ https://live-a.fptplay53.net/live/media/vtv10_drm/dash_247_avc_drm/index.mpd
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV (TV360)" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=3&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=3&token=NinoEra36
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV (TV360)" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=4&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=4&token=NinoEra36
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV (TV360)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=10043&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10043&token=NinoEra36
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV (TV360)" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=6&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=6&token=NinoEra36
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV (TV360)" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=8&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=8&token=NinoEra36
 #EXTINF:0 tvg-id="vtv10" group-title="VTV (TV360)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://devonlynino.github.io/assets/v1/none?id=98&token=NinoEra36
-
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=98&token=NinoEra36
 
 # --- VTVcab ---
 
@@ -278,7 +277,7 @@ https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
-https://devonlynino.github.io/assets/v1/none?id=173&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=173&token=NinoEra36
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab (TV360)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -286,7 +285,7 @@ https://devonlynino.github.io/assets/v1/none?id=173&token=NinoEra36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
-https://devonlynino.github.io/assets/v1/none?id=174&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoEra36
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab (TV360)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -294,4 +293,4 @@ https://devonlynino.github.io/assets/v1/none?id=174&token=NinoEra36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hoiquan.dpdns.org/AutoKey/
-https://devonlynino.github.io/assets/v1/none?id=170&token=NinoEra36
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=170&token=NinoEra36
