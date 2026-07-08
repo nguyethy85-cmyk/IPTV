@@ -77,36 +77,42 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 # -- MyTV --
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="VTV (MyTV)",VTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="VTV (MyTV)",VTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" group-title="VTV (MyTV)",VTV6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv667/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="VTV (MyTV)",VTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="VTV (MyTV)",VTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="VTV (MyTV)",VTV10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
@@ -201,6 +207,7 @@ https://devonlynino.github.io/assets/v1/none?id=98&token=NinoEra36
 
 # --- MyTV ---
 #EXTINF:-1 tvg-id="onfootball" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png" group-title="VTVcab (MyTV)",ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -208,6 +215,7 @@ https://devonlynino.github.io/assets/v1/none?id=98&token=NinoEra36
 https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab18.png" group-title="VTVcab (MyTV)",ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -215,6 +223,7 @@ https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsports" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab3.png" group-title="VTVcab (MyTV)",ON Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -224,6 +233,7 @@ https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 # --- VTVprime ---
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab (VTVprime)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -231,6 +241,7 @@ https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab (VTVprime)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -238,6 +249,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab (VTVprime)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -245,6 +257,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab (VTVprime)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (Thử Nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -252,6 +265,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 https://livbytatmlltc.vtvprime.vn/live/lowltc/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab (VTVprime)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (Thử Nghiệm sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -259,6 +273,7 @@ https://livbytatmlltc.vtvprime.vn/live/lowltc/BONGDA_HD/Live_DASHDRM/BONGDA_HD.m
 https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 # --- TV360 ---
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab (TV360)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png",ON Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,6 +281,7 @@ https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 https://devonlynino.github.io/assets/v1/none?id=173&token=NinoEra36
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab (TV360)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -273,6 +289,7 @@ https://devonlynino.github.io/assets/v1/none?id=173&token=NinoEra36
 https://devonlynino.github.io/assets/v1/none?id=174&token=NinoEra36
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab (TV360)" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
