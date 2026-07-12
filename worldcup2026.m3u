@@ -118,7 +118,7 @@ https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
 https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV dự phỏng",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV dự phòng",VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
