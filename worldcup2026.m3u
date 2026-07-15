@@ -255,23 +255,22 @@ https://live-a.fptplay53.net/live/media/vtv10_drm/dash_247_avc_drm/index.mpd
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="TV360" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv2-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=3
 #EXTINF:0 tvg-id="vtv3hd" group-title="TV360" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv3-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=4
 #EXTINF:0 tvg-id="vtv6hd" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv6-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=10043
 #EXTINF:0 tvg-id="vtv7hd" group-title="TV360" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv7-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=6
 #EXTINF:0 tvg-id="vtv9hd" group-title="TV360" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv9-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=8
 #EXTINF:0 tvg-id="vtv10" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv10-hd
-
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=98
 
 # --- VTVcab ---
 # --- MyTV ---
@@ -347,14 +346,14 @@ https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vmttv.dpdns.org/tv360/?id=vtvcab-3-on-sports
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=173
 #EXTINF:-1 tvg-id="onfootball" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vmttv.dpdns.org/tv360/?id=vtvcab-16-hd
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=174
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png",ON Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -362,4 +361,18 @@ https://vmttv.dpdns.org/tv360/?id=vtvcab-16-hd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vmttv.dpdns.org/tv360/?id=vtvcab-18-on-sports-news
+http://vietanh18h1.duckdns.org/tv360/tv360.php?id=170
+
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 
+https://247.dpdns.org/module/IPTV/?id=vtv2&accKenh=ditmemay
+#EXTINF:0 tvg-id="vtv3hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://247.dpdns.org/module/IPTV/?id=vtv3&accKenh=ditmemay
+#EXTINF:0 tvg-id="vtv6hd" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 
+https://247.dpdns.org/module/IPTV/?id=vtv6&accKenh=ditmemay
+#EXTINF:0 tvg-id="vtv7hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 
+https://247.dpdns.org/module/IPTV/?id=vtv7&accKenh=ditmemay
+#EXTINF:0 tvg-id="vtv9hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 
+https://247.dpdns.org/module/IPTV/?id=vtv9&accKenh=ditmemay
+#EXTINF:0 tvg-id="vtv10" group-title="Dự phòng" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+https://247.dpdns.org/module/IPTV/?id=vtv10&accKenh=ditmemay
