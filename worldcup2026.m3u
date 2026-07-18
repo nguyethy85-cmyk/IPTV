@@ -78,115 +78,30 @@ https://vmttv.dpdns.org/VTVGo/?BinhLuanCamXuc2
 https://vmttv.dpdns.org/VTVGo/?WC-FiFa2
 #EXTINF:-1 group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
 https://vmttv.dpdns.org/VTVGo/?kenh-tieng-anh-2
-# -- MyTV --
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV",VTV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="MyTV",VTV3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" group-title="MyTV",VTV6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv667/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="MyTV",VTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="MyTV",VTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="MyTV",VTV10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
-
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV dự phòng",VTV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV2-HD
-
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="MyTV dự phòng",VTV3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV3-HD
-
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" group-title="MyTV dự phòng",VTV6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV6-HD
-
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="MyTV dự phòng",VTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV7-HD
-
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="MyTV dự phòng",VTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV9-HD
-
-#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="MyTV dự phòng",VTV10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://chicken.dpdns.org/MyTV/?VTV10
-
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV dự phòng",VTV2 sv2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" group-title="MyTV",VTV2 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv2_hd.php
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="MyTV dự phòng",VTV3 sv2
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" group-title="MyTV",VTV3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv3_hd.php
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" group-title="MyTV dự phòng",VTV6 sv2
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" group-title="MyTV",VTV6 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv6_hd.php
 
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="MyTV dự phòng",VTV7 sv2
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" group-title="MyTV",VTV7 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv7_hd.php
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="MyTV dự phòng",VTV9 sv2
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" group-title="MyTV",VTV9 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv9_hd.php
 
-#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="MyTV dự phòng",VTV10 sv2
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" group-title="MyTV",VTV10 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pk79.io.vn/live/vtv10_hd.php
-
 
 # -- FPTPlay --
 #EXTINF:-1 tvg-id="vtv2hd" group-title="FPTPlay" tvg-logo="https://i.imgur.com/BVwi3K3.png", VTV2
@@ -284,7 +199,7 @@ https://pk79.io.vn/live/on_football_hd.php
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
+#https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsports" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab3.png" group-title="MyTV",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -292,7 +207,7 @@ https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
+#https://s71100.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 
 # --- VTVprime ---
 
