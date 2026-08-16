@@ -22,4 +22,4 @@ https://lichphatsong.site
 # FREE EPG
 https://epg.pw/index.html
 # Ngô Văn Thành
-https://vnepg.site
+https://epg.io.vn and https://lichphatsong.io.vn
