@@ -439,7 +439,7 @@ https://livebytatm.vtvprime.vn/live/data8/HTVCCANHAC/Live_DASHDRM/HTVCCANHAC.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=seenow2025
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://livebytsct.vtvprime.vn/mean/HTVC_THUAN_VIET_HD/manifest.mpd
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 #KODIPROP:inputstreamaddon=inputstream.adaptive
