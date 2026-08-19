@@ -436,10 +436,11 @@ https://livebytatm.vtvprime.vn/live/data8/HTV9/Live_DASHDRM/HTV9.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
 https://livebytatm.vtvprime.vn/live/data8/HTVCCANHAC/Live_DASHDRM/HTVCCANHAC.mpd
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36","Connection":"keep-alive","Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Content-Type":"application/octet-stream","sec-ch-ua-platform":"\"Android\"","sec-ch-ua":"\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\"","token":"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6IlZUVnByaW1lIiwiYXBwX3VzZXJfaWQiOiI0OGQxMGEzMC1kNjBhLTQ4OTEtYTZkOC00NmJkZmRmMjUwMzIiLCJjb250ZW50X2lkIjoidnR2LXZ0dmNhYi1naWFpdHJpIiwiZXhwIjoxNzg3MTkxMDQwLCJpYXQiOjE3ODcxODM3NDZ9.3Js9bkO3efOykWYZ15AzxlD1xLpK7NhytkPI866tR1xGigbDPolWbDwFAZSg_CfjL1Nw3TRHGhWkxji1T5BVGw","sec-ch-ua-mobile":"?1","origin":"https://vtvprime.vn","sec-fetch-site":"cross-site","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"https://vtvprime.vn/","accept-language":"vi,fr-FR;q=0.9,fr;q=0.8,en-US;q=0.7,en;q=0.6,da;q=0.5","priority":"u=1, i"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/clearkey
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=seenow2025
 https://livebytsct.vtvprime.vn/mean/HTVC_THUAN_VIET_HD/manifest.mpd
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 #KODIPROP:inputstreamaddon=inputstream.adaptive
