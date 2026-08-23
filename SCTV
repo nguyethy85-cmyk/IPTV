@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epgc.xml"
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV Thể thao" tvg-logo="https://img.vtvprime.vn/2aHpjGXD44gTLqUNPbTvKpwYoO7SSGK608WqH9YD5jU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjBhNjlkNTItODA0Yy00YzQzLTllMGQtNDFlYzdiNWE4ODMyLnBuZw==.png",SCTV15 SPORT2 | Truyền hình cáp Saigontourist
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4152a6efb7a843a28eaa6608c1efd375:78abacfef39844f4b893a5ed08c1b747
+https://live.tvon.vn/g4/sctv15/master.mpd
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV Thể thao" tvg-logo="https://img.vtvprime.vn/8fpfcS-6YDwMwZT8ej5U_ll9yYJvt1mZaCeSBmi5jnI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDQ5ODA4NWQtYmUwNC00NDFiLWI2NDYtM2JlMTJkZjBlNGRjLnBuZw==.png",SCTV17 SPORT | Truyền hình cáp Saigontourist
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4101ccdaaae14297bcd3ef37a7eb28fc:b26d1dfc82f34bfe8e9ef5262064e0d0
+https://live.tvon.vn/g4/sctv17/master.mpd
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV Thể thao" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",SCTV22 SSPORT1 | Truyền hình cáp Saigontourist
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b79d53f000284fb6886fcc158151f9d5:de403f694d95466d9d5ba575edc79069
+https://live.tvon.vn/g4/sctv22/master.mpd
