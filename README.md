@@ -18,7 +18,7 @@ https://github.com/hoiquanclick
 # Nguồn epg từ:
 
 # Bảo Chính
-https://lichphatsong.site
+https://epg.blaosolar.vn
 # FREE EPG
 https://epg.pw/index.html
 # Ngô Văn Thành
