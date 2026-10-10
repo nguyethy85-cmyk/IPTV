@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://new.epg.io.vn/epgc.xml.gz"
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml.gz"
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -34,7 +34,7 @@ https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f
-https://livesct.vtvprime.vn/Live_DASHDRM2/VTV5_TNB/manifest.mpd
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TNB/manifest.mpd
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
