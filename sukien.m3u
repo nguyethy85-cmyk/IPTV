@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTINF:-1, List chỉ cập nhật vào Thứ 7 , Chủ Nhật hàng tuần
+
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
 https://w-api.andanh.click/APP/FPT/tv.php?id=fpt-play
