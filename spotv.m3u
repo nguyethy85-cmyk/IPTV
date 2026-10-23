@@ -1,17 +1,17 @@
-#EXTM3U url-tvg="https://new.epg.io.vn/epgc.xml.gz"
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml.gz"
 # --- SPOTV ---
 #EXTINF:-1 tvg-id="spotv1" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png",SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://w-api.andanh.site/APP/MyTV/key.php
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7773.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 #EXTINF:-1 tvg-id="spotv2" group-title="SPOTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png",SPOTV2
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://w-api.andanh.site/APP/MyTV/key.php
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7771.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 
 #EXTINF:-1 tvg-id="spotv1" tvg-logo="https://freem3u.xyz/static/images/global/spotv.png" group-title="SPOTV",SPOTV - Tiếng Anh
