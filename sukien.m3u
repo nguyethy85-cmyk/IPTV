@@ -1,5 +1,95 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#EXTINF:-1, List chỉ cập nhật vào Thứ 7 , Chủ Nhật hàng tuần
-https://example.com/fpt.m3u8
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
 https://w-api.andanh.click/APP/FPT/tv.php?id=fpt-play
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792658555016.jpg", Thứ 7 Ngoại hạng vòng 8 (FHD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h264&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792658555016.jpg", Thứ 7 Ngoại hạng vòng 8 (4K)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h265&v=a
+#EXTINF:-1 tvg-id="fpt-event-su-kien-03" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/background_1792728805850.jpg", Hong Kong Slam 2026: Ngày 24/10 - Buổi chiều
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-03
+#EXTINF:-1 tvg-id="fpt-event-event-05" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/24/aogw26_1792780765234.jpg", Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 24/10
+https://w-api.andanh.click/APP/FPT/tv.php?id=event-05
+#EXTINF:-1 tvg-id="fpt-event-event-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/khong-title_1792488442731.jpg", FC Pro Mobile World Championship 2026 - Ngày 24/10
+https://w-api.andanh.click/APP/FPT/tv.php?id=event-06
+#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/background_1792766250774.jpg", Hà Nội - MVG Lào Cai 1
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-06
+#EXTINF:-1 tvg-id="fpt-event-" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/bg-live_1792576993191.jpg", Thành Phố Đồng Nai - Thép Xanh Nam Định
+https://w-api.andanh.click/APP/FPT/tv.php?id=event-18
+#EXTINF:-1 tvg-id="fpt-event-su-kien-28" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/bg-live_1792550698203.jpg", Hưng Yên - Long An
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-28
+#EXTINF:-1 tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/bg-live_1792574449752.jpg", Hồng Lĩnh Hà Tĩnh - Hải Phòng
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-29
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792649798758.jpg", Aston Villa - Manchester City (FHD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h264&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792649798758.jpg", Aston Villa - Manchester City (4K)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h265&v=a
+#EXTINF:-1 tvg-id="fpt-event-su-kien-07" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/background_1792766363908.jpg", Chicken Dunk - 3F Cần Thơ By BDA
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-07
+#EXTINF:-1 tvg-id="fpt-event-su-kien-08" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/background_1792766486699.jpg", MVG Lào Cai 2 - Công An Nhân Dân
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-08
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792651120832.jpg", Arsenal - Everton (FHD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h264&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792651120832.jpg", Arsenal - Everton (4K)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h265&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-02-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/background_1792657647381.jpg", Arsenal - Everton: Fan cứng
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07fcabba47c249f0a387ec8fcafb00d3:5f92de922bb9d65907bc87f8935b64dd
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-02-bk&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hcm-03-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792650121369.jpg", Coventry City - Fulham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70f56d8cd9e44d35bafce384ed70b51f:703e2e5e79d4aab60cb36db2ad5ae87e
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-03-bk&v=a
+#EXTINF:-1 tvg-id="fpt-event-su-kien-30" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/background_1792662198468.jpg", UFC 333: Volkanovski vs Evloev
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-30
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792650254984.jpg", Chelsea - Tottenham Hotspur (FHD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h264&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792650254984.jpg", Chelsea - Tottenham Hotspur (4K)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-01-4k-bk&type=url_dash_drm_h265&v=a
+#EXTINF:-1 tvg-id="fpt-event-epl-hn-03-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792657805923.jpg", Chelsea - Tottenham Hotspur: Premier League Extra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4f6f8c137ea4479b7f3278c0d16e0e4:7465e029d159a56b5d32e9e8002f3a44
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-03-bk&v=a
+#EXTINF:-1 tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/background_1792580250528.jpg", Genesis Championship 2026 - Vòng 4
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-29
+#EXTINF:-1 tvg-id="fpt-event-su-kien-30" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/background_1792660341723.jpg", Hong Kong Open 2026 - Vòng 4
+https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-30
+#EXTINF:-1 tvg-id="fpt-event-event-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/background_1792555174096.jpg", Hong Kong Slam 2026: Ngày 25/10
+https://w-api.andanh.click/APP/FPT/tv.php?id=event-01
