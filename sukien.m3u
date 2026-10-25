@@ -49,14 +49,14 @@ https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-03-bk&v=a
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fcabba47c249f0a387ec8fcafb00d3:5f92de922bb9d65907bc87f8935b64dd
-https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-02-4k-bk&type=url_dash_drm_h264&v=a
+#KODIPROP:inputstream.adaptive.license_key=94c9fef3e4df402ab1cf7c0351cd7788:87be62f1337ac2d76a4f2c821ab5ef53
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-05-4k-bk&type=url_dash_drm_h264&v=a
 #EXTINF:-1 tvg-id="fpt-event-epl-hn-02-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/background_1792658306978.jpg", Manchester United - Bournemouth: Fan Cứng (4K)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fcabba47c249f0a387ec8fcafb00d3:5f92de922bb9d65907bc87f8935b64dd
-https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-02-4k-bk&type=url_dash_drm_h265&v=a
+#KODIPROP:inputstream.adaptive.license_key=94c9fef3e4df402ab1cf7c0351cd7788:87be62f1337ac2d76a4f2c821ab5ef53
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-05-4k-bk&type=url_dash_drm_h265&v=a
 #EXTINF:-1 tvg-id="fpt-event-epl-hn-04-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792650435898.jpg", Crystal Palace - Newcastle United
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
