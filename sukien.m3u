@@ -3,18 +3,6 @@
 https://w-api.andanh.click/APP/FPT/tv.php?id=fpt-play
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/24/aogw26_1792781033320.jpg", Đấu Trường Danh Vọng Mùa Đông 2026 - Ngày 25/10
 https://w-api.andanh.click/APP/FPT/tv.php?id=event-02
-#EXTINF:-1 tvg-id="fpt-event-event-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/20/khong-title_1792488514712.jpg", FC Pro Mobile World Championship 2026 - Ngày 25/10
-https://w-api.andanh.click/APP/FPT/tv.php?id=event-06
-#EXTINF:-1 tvg-id="fpt-event-event-05" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/25/background_1792867804531.jpg", Công An Nhân Dân - MVG Lào Cai 2
-https://w-api.andanh.click/APP/FPT/tv.php?id=event-05
-#EXTINF:-1 tvg-id="fpt-event-su-kien-28" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/bg-live_1792574881648.jpg", Ninh Bình - Công An TP. Hồ Chí Minh
-https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-28
-#EXTINF:-1 tvg-id="fpt-event-su-kien-31" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/21/bg-live_1792574664518.jpg", SHB Đà Nẵng - Hà Nội
-https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-31
-#EXTINF:-1 tvg-id="fpt-event-su-kien-05" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/25/background_1792868115204.jpg", Phòng Không Không Quân Peak - Chicken Dunk
-https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-05
-#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/25/background_1792868303816.jpg", 3F Cần Thơ By BDA - Đà Nẵng
-https://w-api.andanh.click/APP/FPT/tv.php?id=su-kien-06
 #EXTINF:-1 tvg-id="fpt-event-epl-hn-01-4k-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792651516128.jpg", Manchester United - Bournemouth (FHD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -61,14 +49,14 @@ https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-05-4k-bk&type=url_dash_drm_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fcabba47c249f0a387ec8fcafb00d3:5f92de922bb9d65907bc87f8935b64dd
+#KODIPROP:inputstream.adaptive.license_key=a4c75c49218e4ed3b20db8fdd9672220:2d65d35fc505f22401c07b0597f3f4d7
 https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hn-04-bk&v=a
-#EXTINF:-1 tvg-id="fpt-event-epl-hcm-01-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/bg-1_1792721122046.jpg", Hull City - Brentford
+#EXTINF:-1 tvg-id="fpt-event-epl-hcm-03-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/23/bg-1_1792721122046.jpg", Hull City - Brentford
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fcabba47c249f0a387ec8fcafb00d3:5f92de922bb9d65907bc87f8935b64dd
-https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-01-bk&v=a
+#KODIPROP:inputstream.adaptive.license_key=70f56d8cd9e44d35bafce384ed70b51f:703e2e5e79d4aab60cb36db2ad5ae87e
+https://w-api.andanh.click/APP/FPT/tv.php?id=epl-hcm-03-bk&v=a
 #EXTINF:-1 tvg-id="fpt-event-epl-hn-02-bk" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/22/bg_1792651285976.jpg", Liverpool - Brighton & Hove Albion
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
