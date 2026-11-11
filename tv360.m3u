@@ -1,0 +1,477 @@
+#EXTM3U url-tvg="https://epg.blaosolar.vn/schedule/epg.xml"
+#EXTM3U x-tvg-url="https://epg.io.vn/epg.xml, https://epg.io.vn/epgu.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1"
+
+#EXTINF:-1 tvg-id="vietnam-today-hd" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_480_270.png",VIETNAM TODAY HD
+https://vmttv.dpdns.org/tv360/?id=vietnam-today-hd
+#EXTINF:-1 tvg-id="vietnam-today-hd" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_480_270.png",VIETNAM TODAY HD
+https://vmttv.dpdns.org/tv360/?id=vietnam-today-hd
+#EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png",VTV1
+https://vmttv.dpdns.org/tv360/?id=vtv1
+#EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png",VTV1
+https://vmttv.dpdns.org/tv360/?id=vtv1
+#EXTINF:-1 tvg-id="vtv10" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/178902829313/9caa3cdd2362_480_270.png",VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027996819/72d1db4aee30_480_270.png",VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028028518/5e31c4d0e6df_480_270.png",VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028176727/7330e5a3b2d9_480_270.png",VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png",VTV5
+https://vmttv.dpdns.org/tv360/?id=vtv5
+#EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png",VTV5
+https://vmttv.dpdns.org/tv360/?id=vtv5
+#EXTINF:-1 tvg-id="vtv5-tay-nam-bo" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028453349/679543a01193_480_270.png",VTV5 Tây Nam Bộ
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="vtv5-tay-nguyen" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028476364/6cc9a1e13281_480_270.png",VTV5 Tây Nguyên
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028251332/3b8d99f01cf8_480_270.png",VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028340304/12d1ff56339c_480_270.png",VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028374733/17d3b1dcfa56_480_270.png",VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="vtv9" group-title="VTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028403548/13cc721d59b3_480_270.png",VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png",360 Anime
+https://vmttv.dpdns.org/tv360/?id=360-anime
+#EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png",360 Bundesliga
+https://vmttv.dpdns.org/tv360/?id=360-bundesliga
+#EXTINF:-1 tvg-id="360-c1-chau-au" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
+#EXTINF:-1 tvg-id="360-c2-chau-au" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_480_270.png",360 C2 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
+#EXTINF:-1 tvg-id="360-c3-chau-au" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_480_270.png",360 C3 Châu Âu
+https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
+#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_480_270.png",360 Công Thức 1
+https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1
+#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_480_270.png",360 Golf
+https://vmttv.dpdns.org/tv360/?id=360-golf
+#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",360 Hài -Tình cảm
+https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
+#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_480_270.png",360 Hành động Châu Á
+https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
+#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữ
+https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
+#EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
+https://vmttv.dpdns.org/tv360/?id=360-k-drama
+#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",360 Phim Kinh điển
+https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
+#EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
+https://vmttv.dpdns.org/tv360/?id=360-tennis
+#EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png",360 Thể Thao Châu Á
+https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
+#EXTINF:-1 tvg-id="360-thieu-nhi" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_480_270.png",360 Thiếu Nhi
+https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
+#EXTINF:-1 tvg-id="hoat-hinh" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/08/03/16/178574886930/9daa0ca42fd8_480_270.png",Hoạt hình
+https://vmttv.dpdns.org/tv360/?id=hoat-hinh
+#EXTINF:-1 tvg-id="livestream-01" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png",Livestream 01
+https://vmttv.dpdns.org/tv360/?id=livestream-01
+#EXTINF:-1 tvg-id="phim-au-my" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png",Phim Âu Mỹ
+https://vmttv.dpdns.org/tv360/?id=phim-au-my
+#EXTINF:-1 tvg-id="phim-viet" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png",Phim Việt
+https://vmttv.dpdns.org/tv360/?id=phim-viet
+#EXTINF:-1 tvg-id="tv360" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",TV360
+https://vmttv.dpdns.org/tv360/?id=tv360
+#EXTINF:-1 tvg-id="tv360-1" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png",🗝️TV360+ 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-1
+#EXTINF:-1 tvg-id="tv360-10" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",TV360+ 10
+https://vmttv.dpdns.org/tv360/?id=tv360-10
+#EXTINF:-1 tvg-id="tv360-11" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",TV360+ 11
+https://vmttv.dpdns.org/tv360/?id=tv360-11
+#EXTINF:-1 tvg-id="tv360-12" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",🗝️TV360+ 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-12
+#EXTINF:-1 tvg-id="tv360-13" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",🗝️TV360+ 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-13
+#EXTINF:-1 tvg-id="tv360-14" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",🗝️TV360+ 14
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-14
+#EXTINF:-1 tvg-id="tv360-15" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png",🗝️TV360+ 15
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-15
+#EXTINF:-1 tvg-id="tv360-2" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",🗝️TV360+ 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-2
+#EXTINF:-1 tvg-id="tv360-3" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",🗝️TV360+ 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-3
+#EXTINF:-1 tvg-id="tv360-4" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",🗝️TV360+ 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-4
+#EXTINF:-1 tvg-id="tv360-5" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267019948/634cdb439c75_480_270.png",🗝️TV360+ 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-5
+#EXTINF:-1 tvg-id="tv360-6" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267080314/d06a99b5bd9c_480_270.png",🗝️TV360+ 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-6
+#EXTINF:-1 tvg-id="tv360-7" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/177626714329/4631db40bb03_480_270.png",🗝️TV360+ 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-7
+#EXTINF:-1 tvg-id="tv360-8" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",🗝️TV360+ 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=tv360-8
+#EXTINF:-1 tvg-id="tv360-9" group-title="TV360 Live" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",TV360+ 9
+https://vmttv.dpdns.org/tv360/?id=tv360-9
+#EXTINF:-1 tvg-id="antv" group-title="Thời Sự" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_480_270.png",ANTV
+https://vmttv.dpdns.org/tv360/?id=antv
+#EXTINF:-1 tvg-id="qpvn-hd" group-title="Thời Sự" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8_480_270.png",QPVN HD
+https://vmttv.dpdns.org/tv360/?id=qpvn-hd
+#EXTINF:-1 tvg-id="vinh-long-1" group-title="THVL" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png",Vĩnh Long 1
+https://vmttv.dpdns.org/tv360/?id=vinh-long-1
+#EXTINF:-1 tvg-id="vinh-long-2" group-title="THVL" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png",Vĩnh Long 2
+https://vmttv.dpdns.org/tv360/?id=vinh-long-2
+#EXTINF:-1 tvg-id="vinh-long-3" group-title="THVL" tvg-logo="https://img-evg1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_480_270.png",Vĩnh Long 3
+https://vmttv.dpdns.org/tv360/?id=vinh-long-3
+#EXTINF:-1 tvg-id="vinh-long-4" group-title="THVL" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png",Vĩnh Long 4
+https://vmttv.dpdns.org/tv360/?id=vinh-long-4
+#EXTINF:-1 tvg-id="vinh-long-5" group-title="THVL" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png",Vĩnh Long 5
+https://vmttv.dpdns.org/tv360/?id=vinh-long-5
+#EXTINF:-1 tvg-id="abc-australia" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/21/1633012334655/9f82fec7aa58_480_270.png",🗝️ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=abc-australia
+#EXTINF:-1 tvg-id="afn-hd" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480_480_270.png",AFN HD
+https://vmttv.dpdns.org/tv360/?id=afn-hd
+#EXTINF:-1 tvg-id="arirang" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png",Arirang
+https://vmttv.dpdns.org/tv360/?id=arirang
+#EXTINF:-1 tvg-id="axn" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_480_270.png",🗝️AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=axn
+#EXTINF:-1 tvg-id="bloomberg" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767115195629/60e0ef5853e1_480_270.png",🗝️Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=bloomberg
+#EXTINF:-1 tvg-id="cartoon" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_480_270.png",🗝️Cartoon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=cartoon
+#EXTINF:-1 tvg-id="channel-news-asia" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png",Channel News Asia
+https://vmttv.dpdns.org/tv360/?id=channel-news-asia
+#EXTINF:-1 tvg-id="cinema-world" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114171189/011dc2ee60d6_480_270.png",🗝️Cinema World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=cinema-world
+#EXTINF:-1 tvg-id="cinemax" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/30/23/1767113557980/0de97d4682ea_480_270.png",🗝️Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=cinemax
+#EXTINF:-1 tvg-id="cnbc" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2026/03/29/23/1774802901669/9a839f2886f1_480_270.png",CNBC
+https://vmttv.dpdns.org/tv360/?id=cnbc
+#EXTINF:-1 tvg-id="cnn" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/10/01/08/1633052531161/ccb61db3f667_480_270.png",🗝️CNN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=cnn
+#EXTINF:-1 tvg-id="davinci-hd" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/14/1776671050490/04b840309da4_480_270.png",DaVinci HD
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="discovery-channel" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_480_270.png",🗝️Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=discovery-channel
+#EXTINF:-1 tvg-id="dreamworks" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114503767/16fabdd762a9_480_270.png",🗝️DreamWorks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=dreamworks
+#EXTINF:-1 tvg-id="dw" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2022/05/10/15/1652170991466/3334568ab702_480_270.png",DW
+https://vmttv.dpdns.org/tv360/?id=dw
+#EXTINF:-1 tvg-id="fashiontv" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114669220/2a4f94f276e2_480_270.png",🗝️FashionTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=fashiontv
+#EXTINF:-1 tvg-id="france-24" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082328472/0da91b00311f_480_270.png",France 24
+https://vmttv.dpdns.org/tv360/?id=france-24
+#EXTINF:-1 tvg-id="france-24-sd" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/07/23/1775577775404/09de37d2a0ee_480_270.png",France 24 SD
+https://vmttv.dpdns.org/tv360/?id=france-24-sd
+#EXTINF:-1 tvg-id="hbo" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_480_270.png",🗝️HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=hbo
+#EXTINF:-1 tvg-id="hgtv" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_480_270.png",🗝️HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=hgtv
+#EXTINF:-1 tvg-id="history-hd" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/14/177667111674/a2a11d8f4a75_480_270.png",History HD
+https://vmttv.dpdns.org/tv360/?id=history-hd
+#EXTINF:-1 tvg-id="hitv" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png",HITV
+https://vmttv.dpdns.org/tv360/?id=hitv
+#EXTINF:-1 tvg-id="kbs-world" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823332611/f8ac56be52c6_480_270.png",KBS World
+https://vmttv.dpdns.org/tv360/?id=kbs-world
+#EXTINF:-1 tvg-id="kix" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_480_270.png",Kix
+https://vmttv.dpdns.org/tv360/?id=kix
+#EXTINF:-1 tvg-id="nhk" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png",NHK
+https://vmttv.dpdns.org/tv360/?id=nhk
+#EXTINF:-1 tvg-id="outdoor-hd" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_480_270.png",Outdoor HD
+https://vmttv.dpdns.org/tv360/?id=outdoor-hd
+#EXTINF:-1 tvg-id="tv5" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2024/05/03/23/1714753734110/8e356cdac7e9_480_270.png",TV5
+https://vmttv.dpdns.org/tv360/?id=tv5
+#EXTINF:-1 tvg-id="warner-tv" group-title="In The Box Copy" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_480_270.png",🗝️Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=warner-tv
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="SCTV" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_480_270.png",SCTV2 - Today TV
+https://vmttv.dpdns.org/tv360/?id=sctv2-today-tv
+#EXTINF:-1 tvg-id="sctv6" group-title="SCTV" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/23/09/1753236453485/c454ca3f905f_480_270.png",SCTV6
+https://vmttv.dpdns.org/tv360/?id=sctv6
+#EXTINF:-1 tvg-id="o2tv" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png",O2TV
+https://vmttv.dpdns.org/tv360/?id=o2tv
+#EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png",VTVcab 1 - Vie Giải Trí HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-1-vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab-12-styletv-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png",VTVcab 12 - StyleTV HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-12-styletv-hd
+#EXTINF:-1 tvg-id="vtvcab-16-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png",🗝️VTVcab 16 - On Football HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=vtvcab-16-hd
+#EXTINF:-1 tvg-id="vtvcab-18-on-sports-news" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png",🗝️VTVcab 18 - On Sports News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=vtvcab-18-on-sports-news
+#EXTINF:-1 tvg-id="vtvcab-2-phim-viet-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png",VTVcab 2 - Phim Việt HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
+#EXTINF:-1 tvg-id="vtvcab-20-v-family-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png",VTVcab 20 - V Family HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-20-v-family-hd
+#EXTINF:-1 tvg-id="vtvcab-21-cartoon-kids-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_480_270.png",VTVcab 21- Cartoon Kids HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-21-cartoon-kids-hd
+#EXTINF:-1 tvg-id="vtvcab-22-life-tv-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_480_270.png",VTVcab 22 - Life TV HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-22-life-tv-hd
+#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png",VTVcab 23 - Golf Channel
+https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+#EXTINF:-1 tvg-id="vtvcab-3-on-sports" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png",🗝️VTVcab 3 - On Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=vtvcab-3-on-sports
+#EXTINF:-1 tvg-id="vtvcab-4-on-movies" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png",Vtvcab 4 – On Movies
+https://vmttv.dpdns.org/tv360/?id=vtvcab-4-on-movies
+#EXTINF:-1 tvg-id="vtvcab-5-e-channel-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png",VTVcab 5 - E Channel HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-5-e-channel-hd
+#EXTINF:-1 tvg-id="vtvcab-6-on-sports" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png",🗝️VTVcab 6 - On Sports +
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://auto.set.dpdns.org/Tools/AutoKey/
+https://vmttv.dpdns.org/tv360/?id=vtvcab-6-on-sports
+#EXTINF:-1 tvg-id="vtvcab-8-bi-bi-sd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png",VTVcab 8 Bibi SD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-8-bi-bi-sd
+#EXTINF:-1 tvg-id="vtvcab-9-infotv-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png",VTVcab 9 - InfoTV HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab-9-infotv-hd
+#EXTINF:-1 tvg-id="vtvcab10-on-cine-hd" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png",VTVcab10 - On Cine HD
+https://vmttv.dpdns.org/tv360/?id=vtvcab10-on-cine-hd
+#EXTINF:-1 tvg-id="vtvcab15-on-music" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png",VTVcab15 – On Music
+https://vmttv.dpdns.org/tv360/?id=vtvcab15-on-music
+#EXTINF:-1 tvg-id="vtvcab17-trending-tv" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png",Vtvcab17 – Trending TV
+https://vmttv.dpdns.org/tv360/?id=vtvcab17-trending-tv
+#EXTINF:-1 tvg-id="vtvcab19-vie-dramas" group-title="VTVCab" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png",VTVcab19 – Vie Dramas
+https://vmttv.dpdns.org/tv360/?id=vtvcab19-vie-dramas
+#EXTINF:-1 tvg-id="htv-the-thao" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_480_270.png",HTV Thể Thao
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_480_270.png",HTV1
+https://vmttv.dpdns.org/tv360/?id=htv1
+#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png",HTV2
+https://vmttv.dpdns.org/tv360/?id=htv2
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_480_270.png",HTV3
+https://vmttv.dpdns.org/tv360/?id=htv3
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png",HTV4
+https://vmttv.dpdns.org/tv360/?id=htv4
+#EXTINF:-1 tvg-id="htv7-hd" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png",HTV7 HD
+https://vmttv.dpdns.org/tv360/?id=htv7-hd
+#EXTINF:-1 tvg-id="htv9-hd" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_480_270.png",HTV9 HD
+https://vmttv.dpdns.org/tv360/?id=htv9-hd
+#EXTINF:-1 tvg-id="htvc" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_480_270.png",HTVC+ Channel B
+https://vmttv.dpdns.org/tv360/?id=htvc
+#EXTINF:-1 tvg-id="htvc-du-lich-cuoc-song" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_480_270.png",HTVC du lịch & cuộc sống
+https://vmttv.dpdns.org/tv360/?id=htvc-du-lich-cuoc-song
+#EXTINF:-1 tvg-id="htvc-gia-dinh" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_480_270.png",HTVC gia đình
+https://vmttv.dpdns.org/tv360/?id=htvc-gia-dinh
+#EXTINF:-1 tvg-id="htvc-phim-truyen-hd" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png",HTVC phim truyện HD
+https://vmttv.dpdns.org/tv360/?id=htvc-phim-truyen-hd
+#EXTINF:-1 tvg-id="htvc-phu-nu" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_480_270.png",HTVC phụ Nữ
+https://vmttv.dpdns.org/tv360/?id=htvc-phu-nu
+#EXTINF:-1 tvg-id="htvc-thuan-viet" group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png",HTVC thuần việt
+https://vmttv.dpdns.org/tv360/?id=htvc-thuan-viet
+#EXTINF:-1 tvg-id="an-giang-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751358809467/9f6c4f3dc4d0_480_270.png",An Giang 1
+https://vmttv.dpdns.org/tv360/?id=an-giang-1
+#EXTINF:-1 tvg-id="an-giang-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751358776543/87a0d91f8e5a_480_270.png",An Giang 2
+https://vmttv.dpdns.org/tv360/?id=an-giang-2
+#EXTINF:-1 tvg-id="an-vien-hd" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png",An Viên HD
+https://vmttv.dpdns.org/tv360/?id=an-vien-hd
+#EXTINF:-1 tvg-id="bac-ninh" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292026843/2a0e3c73a0a3_480_270.png",Bắc Ninh
+https://vmttv.dpdns.org/tv360/?id=bac-ninh
+#EXTINF:-1 tvg-id="ca-mau" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_480_270.png",Cà Mau
+https://vmttv.dpdns.org/tv360/?id=ca-mau
+#EXTINF:-1 tvg-id="can-tho-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/1762336328954/07ecc9b857a5_480_270.png",Cần Thơ 1
+https://vmttv.dpdns.org/tv360/?id=can-tho-1
+#EXTINF:-1 tvg-id="can-tho-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/176233636246/8ded7c5a9010_480_270.png",Cần Thơ 2
+https://vmttv.dpdns.org/tv360/?id=can-tho-2
+#EXTINF:-1 tvg-id="can-tho-3" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/1762336060807/7b1128d4e7c7_480_270.png",Cần Thơ 3
+https://vmttv.dpdns.org/tv360/?id=can-tho-3
+#EXTINF:-1 tvg-id="cao-bang" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_480_270.png",Cao Bằng
+https://vmttv.dpdns.org/tv360/?id=cao-bang
+#EXTINF:-1 tvg-id="da-nang-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png",Đà Nẵng 1
+https://vmttv.dpdns.org/tv360/?id=da-nang-1
+#EXTINF:-1 tvg-id="da-nang-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/175133702497/eded20e0d35c_480_270.png",Đà Nẵng 2
+https://vmttv.dpdns.org/tv360/?id=da-nang-2
+#EXTINF:-1 tvg-id="dak-lak" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_480_270.png",Đắk Lắk
+https://vmttv.dpdns.org/tv360/?id=dak-lak
+#EXTINF:-1 tvg-id="dien-bien" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_480_270.png",Điện Biên
+https://vmttv.dpdns.org/tv360/?id=dien-bien
+#EXTINF:-1 tvg-id="dong-nai" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_480_270.png",Đồng Nai
+https://vmttv.dpdns.org/tv360/?id=dong-nai
+#EXTINF:-1 tvg-id="dong-nai-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292646666/9cb8f84c6b6a_480_270.png",Đồng Nai 1
+https://vmttv.dpdns.org/tv360/?id=dong-nai-1
+#EXTINF:-1 tvg-id="dong-thap-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_480_270.png",Đồng Tháp 1
+https://vmttv.dpdns.org/tv360/?id=dong-thap-1
+#EXTINF:-1 tvg-id="dong-thap-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_480_270.png",Đồng Tháp 2
+https://vmttv.dpdns.org/tv360/?id=dong-thap-2
+#EXTINF:-1 tvg-id="gia-lai" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png",Gia Lai
+https://vmttv.dpdns.org/tv360/?id=gia-lai
+#EXTINF:-1 tvg-id="ha-noi-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_480_270.png",Hà Nội 1
+https://vmttv.dpdns.org/tv360/?id=ha-noi-1
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png",Hà Nội 2
+https://vmttv.dpdns.org/tv360/?id=ha-noi-2
+#EXTINF:-1 tvg-id="ha-tinh" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png",Hà Tĩnh
+https://vmttv.dpdns.org/tv360/?id=ha-tinh
+#EXTINF:-1 tvg-id="hai-phong" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png",Hải Phòng
+https://vmttv.dpdns.org/tv360/?id=hai-phong
+#EXTINF:-1 tvg-id="hai-phong-3" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_480_270.png",Hải Phòng 3
+https://vmttv.dpdns.org/tv360/?id=hai-phong-3
+#EXTINF:-1 tvg-id="hue" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png",Huế
+https://vmttv.dpdns.org/tv360/?id=hue
+#EXTINF:-1 tvg-id="hung-yen" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/18/14/1689667110643/2aa9348c16ec_480_270.png",Hưng Yên
+https://vmttv.dpdns.org/tv360/?id=hung-yen
+#EXTINF:-1 tvg-id="khanh-hoa" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_480_270.png",Khánh Hòa
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa
+#EXTINF:-1 tvg-id="khanh-hoa-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751333362278/30e1a394f567_480_270.png",Khánh Hòa 1
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1
+#EXTINF:-1 tvg-id="lai-chau" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293379395/ade5683c1b92_480_270.png",Lai Châu
+https://vmttv.dpdns.org/tv360/?id=lai-chau
+#EXTINF:-1 tvg-id="lam-dong-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993571149/e3bbf8cbc985_480_270.png",Lâm Đồng 1
+https://vmttv.dpdns.org/tv360/?id=lam-dong-1
+#EXTINF:-1 tvg-id="lam-dong-2" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993660312/1082b4f9d963_480_270.png",Lâm Đồng 2
+https://vmttv.dpdns.org/tv360/?id=lam-dong-2
+#EXTINF:-1 tvg-id="lang-son" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",Lạng Sơn
+https://vmttv.dpdns.org/tv360/?id=lang-son
+#EXTINF:-1 tvg-id="lao-cai" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/07/1751329203146/5c287ccfa91a_480_270.png",Lào Cai
+https://vmttv.dpdns.org/tv360/?id=lao-cai
+#EXTINF:-1 tvg-id="nghe-an" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_480_270.png",Nghệ An
+https://vmttv.dpdns.org/tv360/?id=nghe-an
+#EXTINF:-1 tvg-id="ninh-binh" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_480_270.png",Ninh Bình
+https://vmttv.dpdns.org/tv360/?id=ninh-binh
+#EXTINF:-1 tvg-id="phu-tho" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_480_270.png",Phú Thọ
+https://vmttv.dpdns.org/tv360/?id=phu-tho
+#EXTINF:-1 tvg-id="quang-ngai" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/24/17/1777025132946/f2412266a876_480_270.png",Quảng Ngãi
+https://vmttv.dpdns.org/tv360/?id=quang-ngai
+#EXTINF:-1 tvg-id="quang-ninh-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823547870/8f0cdf38412a_480_270.png",Quảng Ninh 1
+https://vmttv.dpdns.org/tv360/?id=quang-ninh-1
+#EXTINF:-1 tvg-id="quang-ninh-3" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/03/21/1727967101708/09889ad04773_480_270.png",Quảng Ninh 3
+https://vmttv.dpdns.org/tv360/?id=quang-ninh-3
+#EXTINF:-1 tvg-id="quang-tri" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/1751335585476/9d5c42897302_480_270.png",Quảng Trị
+https://vmttv.dpdns.org/tv360/?id=quang-tri
+#EXTINF:-1 tvg-id="son-la" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823599924/b1d77a6c01a0_480_270.png",Sơn La
+https://vmttv.dpdns.org/tv360/?id=son-la
+#EXTINF:-1 tvg-id="tay-ninh-1" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2026/01/10/08/1768009863485/1206cb944f9e_480_270.png",Tây Ninh 1
+https://vmttv.dpdns.org/tv360/?id=tay-ninh-1
+#EXTINF:-1 tvg-id="thai-nguyen" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_480_270.png",Thái Nguyên
+https://vmttv.dpdns.org/tv360/?id=thai-nguyen
+#EXTINF:-1 tvg-id="thanh-hoa" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png",Thanh Hóa
+https://vmttv.dpdns.org/tv360/?id=thanh-hoa
+#EXTINF:-1 tvg-id="tuyen-quang" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_480_270.png",Tuyên Quang
+https://vmttv.dpdns.org/tv360/?id=tuyen-quang
+#EXTINF:-1 tvg-id="youtv" group-title="Kênh Địa Phương" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png",YouTV
+https://vmttv.dpdns.org/tv360/?id=youtv
+#EXTINF:-1 tvg-id="fm96" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2025/03/04/21/1741100081578/f16fac473216_480_270.png",FM96
+https://vmttv.dpdns.org/tv360/?id=fm96
+#EXTINF:-1 tvg-id="voh-am610" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png",VOH AM610
+https://vmttv.dpdns.org/tv360/?id=voh-am610
+#EXTINF:-1 tvg-id="voh-fm87" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673834679/564a27e6f7b6_480_270.png",VOH FM87
+https://vmttv.dpdns.org/tv360/?id=voh-fm87
+#EXTINF:-1 tvg-id="voh-fm92-radio" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779674230519/04eefef71c5b_480_270.png",VOH FM92 Radio
+https://vmttv.dpdns.org/tv360/?id=voh-fm92-radio
+#EXTINF:-1 tvg-id="voh-fm95" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779674089161/8e51d80307bf_480_270.png",VOH FM95
+https://vmttv.dpdns.org/tv360/?id=voh-fm95
+#EXTINF:-1 tvg-id="voh-fm99" group-title="Radio" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673413230/6095d75f830a_480_270.png",VOH FM99
+https://vmttv.dpdns.org/tv360/?id=voh-fm99
+#EXTINF:-1 tvg-id="360-chau-tinh-tri" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png",360 Châu Tinh Trì
+https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
+#EXTINF:-1 tvg-id="360-doraemon" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_480_270.png",360 Doraemon
+https://vmttv.dpdns.org/tv360/?id=360-doraemon
+#EXTINF:-1 tvg-id="360-mr-bean" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_480_270.png",360 Mr. Bean
+https://vmttv.dpdns.org/tv360/?id=360-mr-bean
+#EXTINF:-1 tvg-id="360-phim-4k" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_480_270.png",360 Phim 4K
+https://vmttv.dpdns.org/tv360/?id=360-phim-4k
+#EXTINF:-1 tvg-id="360-song-khoe" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_480_270.png",360 Sống khỏe
+https://vmttv.dpdns.org/tv360/?id=360-song-khoe
+#EXTINF:-1 tvg-id="360-tham-tu-conan" group-title="Giải trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859301551/c840fcf1e3e0_480_270.png",360 Thám tử Conan
+https://vmttv.dpdns.org/tv360/?id=360-tham-tu-conan
+#EXTINF:-1 tvg-id="btv6" group-title="Kênh địa phương" tvg-logo="https://img-evg1.tv360.vn/image1/2026/07/31/00/1785431520501/782bdfe129db_480_270.png",BTV6
+https://vmttv.dpdns.org/tv360/?id=btv6
