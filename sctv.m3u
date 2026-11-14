@@ -38,7 +38,7 @@ https://live.tvon.vn/g5/quocphongvn/master.mpd
 
 # --- SCTV ---
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 https://live.tvon.vn/g2/sctv1/master.mpd
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 https://live.tvon.vn/g4/sctv2/master.mpd
@@ -253,11 +253,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
+# --- Trải nghiệm mới ---
+
 #EXTINF:-1 group-title="Trải nghiệm mới" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/VN360_logo_SCTV_Online.png/revision/latest?cb=20261105115615&path-prefix=vi", Việt Nam 360
-https://cdn.anytv.net/fast-presigned-stream/t/sctv/c/13/viet-nam-360/playlist.m3u8
+https://chicken.dpdns.org/SCTV/?slug=viet-nam-360
 #EXTINF:-1 group-title="Trải nghiệm mới" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/TT247_logo_SCTV_Online.png/revision/latest?cb=20261105115716&path-prefix=vi", Thể thao 24/7
-https://cdn.anytv.net/fast-presigned-stream/t/sctv/c/13/the-thao-24-7/playlist.m3u8
+https://chicken.dpdns.org/SCTV/?slug=the-thao-24-7
 #EXTINF:-1 group-title="Trải nghiệm mới" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/PV247_logo_SCTV_Online.png/revision/latest?cb=20261105115451&path-prefix=vi", Phim Việt 24/7
-https://cdn.anytv.net/fast-presigned-stream/t/sctv/c/13/man-anh-viet/playlist.m3u8
+https://chicken.dpdns.org/SCTV/?slug=man-anh-viet
 #EXTINF:-1 group-title="Trải nghiệm mới" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/VTH_logo_SCTV_Online.png/revision/latest?cb=20261105115217&path-prefix=vi", Vũ Trụ Hài
-https://cdn.anytv.net/fast-presigned-stream/t/sctv/c/13/cuoi-lien-luc-dia/playlist.m3u8
+https://chicken.dpdns.org/SCTV/?slug=cuoi-lien-luc-dia
