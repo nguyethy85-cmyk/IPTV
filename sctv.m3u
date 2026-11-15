@@ -125,7 +125,7 @@ https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s3/hls/brvt/index.m3u8
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s2/hls/htv3/index.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
-https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s2/abr_hls/htv7/master.mpd
+https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s2/abr_hls/htv7/master.m3u8
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s2/hls/htv9/index.m3u8
 
