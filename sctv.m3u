@@ -155,6 +155,8 @@ https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s3/hls/vtvcab15/index.m3
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/g1/vtvcab16/master.mpd
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s3/hls/vtvcab17/index.m3u8
+#EXTINF:0 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s4/hls/vtvcab18/index.m3u8
 #EXTINF:0 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s3/hls/vtvcab20/index.m3u8
 #EXTINF:0 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
