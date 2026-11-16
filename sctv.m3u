@@ -15,7 +15,7 @@ https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/g1/vtv5/master.mpd
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/s8/channel/vtv5_tnb/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên
-https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/g1/vtv5tn/master.mpd
+https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/g3/vtv5tn/master.mpd
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
 https://w-api.andanh.click/proxy/proxy.php/live.tvon.vn/g4/vtv6/master.mpd
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7
