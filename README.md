@@ -12,7 +12,7 @@ https://www.facebook.com/profile.php?id=61557160161117
 # alexdang86 
 https://7pal.short.gy
 # vuminhthanh 
-https://github.com/vuminhthanh12
+https://github.com/Vuminhthanhd
 # Hội quán
 https://github.com/hoiquanclick
 # Nguồn epg từ:
