@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml.gz"
+#EXTINF:-1 tvg-id="Prime-phim-viet" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png" group-title="Chuỗi Nội Dung", Prime Phim Việt
+https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
+#EXTINF:-1 tvg-id="Prime-uefa" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png" group-title="Chuỗi Nội Dung", Prime UEFA
+https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -89,7 +93,7 @@ https://livebytatm.vtvprime.vn/live/data8/THETHAO_HD/Live_DASHDRM/THETHAO_HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livebytatm.vtvprime.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
+https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -367,7 +371,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg", SCTV5
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV5.png", SCTV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
