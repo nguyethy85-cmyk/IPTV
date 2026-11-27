@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml.gz"
-#EXTINF:-1 tvg-id="Prime-phim-viet" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png" group-title="Chuỗi Nội Dung", Prime Phim Việt
+#EXTINF:-1 tvg-id="primephimviet" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png" group-title="Chuỗi Nội Dung", Prime Phim Việt
 https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
-#EXTINF:-1 tvg-id="Prime-uefa" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png" group-title="Chuỗi Nội Dung", Prime UEFA
+#EXTINF:-1 tvg-id="primeuefa" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png" group-title="Chuỗi Nội Dung", Prime UEFA
 https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -55,8 +55,8 @@ https://livebytatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV7_HD/manifest.mpd
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
